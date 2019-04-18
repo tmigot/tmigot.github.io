@@ -8,6 +8,29 @@ redirect_from:
   - /about.html
 ---
 
+My research focus on numerical optimization. I am interested in designing algorithms for nonsmooth optimization problems arising in sparse optimization and for non-convex problems including mathematical programs with complementarity problems, bilevel optimization problems and generalized Nash equilibrium problems. I have defended my thesis in October 2017 under the supervision of Jean-Pierre Dussault and Mounir Haddou.
+
+I am also very fond of chess and a big fan of Stade Rennais FC!
+
+Future plans
+======
+  * 13-15 May 19: [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia.
+  * 23-26 June 19: [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) co-organizer of the stream Variational analysis, games and intertwined optimization problems
+  * 28-29 June 19: [2019 EUROPT conference, Glasgow, Scotland](http://icelab.uk/europt-2019/)
+  * 8-10 July 19: [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr) in the session Complementarity Problems: Applications, Theory and Algorithms
+  * 18-23 Aug. 19: [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) organizer of a special session on optimization
+
+News
+======
+
+#### Winter 19: Publications and a new Preprint
+This winter I'm teaching a fun course in Guelph. In the meantime, several papers have been accepted for publication:
+  * with J. Erhel. <a href="https://hal.archives-ouvertes.fr/hal-01584490v2">Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</a>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2.</li>
+  * with L. Abdallah and M. Haddou. <a href="https://hal.archives-ouvertes.fr/hal-01609835v2/">A Sub-Additive DC Approach to the Complementarity Problem</a>, Computational Optimization and Applications, (online) Feb. 2019, pp. 1-26, doi:10.1007/s10589-019-00078-w.</li>
+  * <li>with Mounir Haddou. <a href="https://www.researchgate.net/publication/331304614_A_smoothing_method_for_sparse_optimization_over_convex_sets">A Smoothing Method for Sparse Optimization over Convex Sets</a>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
+ 
+ You can now find on HAL a new preprint written with Jérémy Omer on [Vertex order with optimal number of adjacent predecessors](https://hal.archives-ouvertes.fr/hal-02025298/).
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
