@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,44 +30,67 @@ This winter I'm teaching a fun course in Guelph. In the meantime, several papers
   * <li>with Mounir Haddou. <a href="https://www.researchgate.net/publication/331304614_A_smoothing_method_for_sparse_optimization_over_convex_sets">A Smoothing Method for Sparse Optimization over Convex Sets</a>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
  
  You can now find on HAL a new preprint written with Jérémy Omer on [Vertex order with optimal number of adjacent predecessors](https://hal.archives-ouvertes.fr/hal-02025298/).
+ 
+#### Dec. 18: Conferences
+I gave a talk on the KKT conditions of the GNEP during the <a href="https://winter18.cms.math.ca/">2018 CMS Winter Meeting</a> in Vancouver
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+#### 01 Oct. 18: New Position
+I started a 2 years post-doc position in Guelph under the supervision of Monica Cojocaru. I will work on bringing optimization methods for Generalized Nash Equilibrium Problems.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<img src="images/neige_jour1.jpg" alt="" />
+#### July 1st 18: New Position</h4>
+I am back in Sherbrooke for three months after winning a grant in the interdisciplinary program "Programme de bourses d'excellence pour étudiants étrangers" of FRQNT. I will continue working on a solver for degenerate non-linear programs in [Julia](https://julialang.org/) in collaboration with Jean-Pierre Dussault.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+#### Spring 18: Conferences
+I attended two conferences this spring from 2/05 to 04/05/18 <a href="http://www.lopal-conference.org/">LOPAL</a> in Rabat (Marocco) and from 3/06 to 06/06/18 in [Castro Urdiales, Spain](https://vaenergy.sciencesconf.org/program).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<img src="images/inria.png" alt="" />
+#### Apr. 1st 18: New Position
+I join the team [FLUMINANCE](http://www.irisa.fr/fluminance/indexFluminance.html) at INRIA Rennes for a few months to work on dynamical complementarity problems with Jocelyne Erhel.
+  
+<img src="images/3sels-2.png" alt="" />
+#### Oct. 20th 17: Preprint
+You can now find on HAL [here](https://hal.archives-ouvertes.fr/hal-01584490v1) a new work on the characterizations of solutions in geochemistry in a long-term collaboration wih Jocelyne Erhel from INRIA.
+  
+<img src="images/these.JPG" alt="" />
+#### Oct. 6th 17: PhD Defense
+I have successfully defended my PhD thesis in Rennes. You can find the slides [here](pdf/diapo_soutenance_these_Tangi_Migot.pdf) and the manuscript [here](https://www.theses.fr/2017ISAR0026.pdf).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+#### Oct. 4st 17: Preprint
+I posted on HAL a work that uses difference of convex functions and algorithms approaches to solve a general complementarity problem, in collaboration with Lina Abdallah and Mounir Haddou, entitled: [A Sub-Additive DC Approach to the Complementarity Problem](https://hal.archives-ouvertes.fr/hal-01609835/).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<img src="images/prague.jpg" alt="" />
+#### Sept. 19th 17: Conference
+I gave a talk on regularization methods for MPCC and its extension to MPVC in [ParaoptXI](http://paraoptxi.utia.cas.cz/) (19-22 september) in Prague. <B>UPDATE:</B> you can now find a preprint on this subject [here](https://hal.archives-ouvertes.fr/hal-01701461). <B>UPDATE 2:</B> The paper is published in <I>Optimization</I> (doi:10.1080/02331934.2018.1542531)
 
-**Markdown generator**
+<img src="images/butterfly-epsilon-t2r.png" alt="" />
+#### May 20th 17: Preprint
+I posted on HAL a work in collaboration with Jean-Pierre Dussault, Mounir Haddou and Abdeslam Kadrani on relaxation methods for mathematical programs with complementarity constraints and the approximate resolution of their sub-problems entitled : [How to Compute a Local Minimum of the MPCC](https://hal.archives-ouvertes.fr/hal-01525402v1). I will present part of this work during the conference [EUROPT 2017 in Montréal](https://www.gerad.ca/colloques/europt2017/).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<img src="images/canada_1.jpg" alt="" height="200" width="42" />
+#### May 20th 17: Preprint
+I posted on HAL a work on the butterfly relaxation method for mathematical programs with complementarity constraints in collaboration with Jean-Pierre Dussault and Mounir Haddou entitled: [The New Butterfly Relaxation Methods for Mathematical Programs with Complementarity Constraints](https://hal.archives-ouvertes.fr/hal-01525399v1).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<img src="images/butterflyr2t.png" alt="" />
+#### Nov. 16th 16: Conference
+I gave a talk about the butterfly relaxation method for mathematical program with complementarity constraints at the [INFORMS 2016 Annual Meeting](http://meetings2.informs.org/wordpress/nashville2016/), which were organized in the city of music Nashville (Tennessee, US) from 14 to 16 of november 2016, see the [slides](pdf/diapo_MPCC_Butterfly.pdf).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<img src="images/poster_HJ2016.png" alt="" />
+#### Conference in Rennes 2016
+I was in the organizing committee of the conference [HJ2016: Hamilton-Jacobi Equations: new trends and applications](http://hj2016.sciencesconf.org/), which takes place from 30 of May to 3 June 2016 in Rennes (France). I also presented there a poster on : "A new relaxation method for mathematical program with complementarity constraints".
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<img src="images/toulouse.jpg" alt="" />
+#### March 25th 16: Conference
+I gave a talk about interior point method for monotone linear complementarity problems at the [Journées SMAI-MODE 2016](http://mode2016.sciencesconf.org/), which were organized in Toulouse from 23 to 25 of march 2016, see the 						[slides](http://mode2016.sciencesconf.org/85064). You can find a preprint of this work [on HAL](https://hal.archives-ouvertes.fr/hal-01355566). <B>UPDATE</B> 01/2018: the paper has been accepted in Optimization Letters (doi: 10.1007/s11590-018-1241-2).
+
+<img src="images/theta1.png" alt="" />
+#### March 3rd 16: Preprint
+I posted on HAL a work on sparse optimization in collaboration with Mounir Haddou entitled: [A smoothing method for sparse optimization](https://hal.archives-ouvertes.fr/hal-01269975/). I gave a talk on this methods at the (http://projects.laas.fr/GTPM/)[Réunion du Groupe de Travail Programmation Mathématiques]  in Dijon in June 2015, see the [slides](http://projects.laas.fr/GTPM/slides/migot.pdf).
+
+<img src="images/obstacleAVE-graph.png" alt="" /> 							
+<img src="images/byblos.jpg" alt="" />
+#### Feb. 9th 16: Preprint
+I posted on HAL a work on a numerical method for the absolute value equation in collaboration with Lina Abdallah from Tripoli, Lebanon and Mounir Haddou entitled: [Solving Absolute Value Equation using Complementarity and Smoothing Functions](https://hal.archives-ouvertes.fr/hal-01217977). EDIT: The paper has been accepted in Journal of Computational and Applied Mathematics (doi :10.1016/j.cam.2017.06.019).
+
+
+
