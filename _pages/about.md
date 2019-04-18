@@ -23,22 +23,22 @@ Future plans
 News
 ======
 
-#### Winter 19: Publications and a new Preprint
+### Winter 19: Publications and a new preprint
 This winter I'm teaching a fun course in Guelph. In the meantime, several papers have been accepted for publication:
-  * with J. Erhel. <a href="https://hal.archives-ouvertes.fr/hal-01584490v2">Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</a>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2.</li>
-  * with L. Abdallah and M. Haddou. <a href="https://hal.archives-ouvertes.fr/hal-01609835v2/">A Sub-Additive DC Approach to the Complementarity Problem</a>, Computational Optimization and Applications, (online) Feb. 2019, pp. 1-26, doi:10.1007/s10589-019-00078-w.</li>
-  * <li>with Mounir Haddou. <a href="https://www.researchgate.net/publication/331304614_A_smoothing_method_for_sparse_optimization_over_convex_sets">A Smoothing Method for Sparse Optimization over Convex Sets</a>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
+  * with J. Erhel. <a href="https://hal.archives-ouvertes.fr/hal-01584490v2">Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</a>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2.
+  * with L. Abdallah and M. Haddou. <a href="https://hal.archives-ouvertes.fr/hal-01609835v2/">A Sub-Additive DC Approach to the Complementarity Problem</a>, Computational Optimization and Applications, (online) Feb. 2019, pp. 1-26, doi:10.1007/s10589-019-00078-w
+  * with Mounir Haddou. <a href="https://www.researchgate.net/publication/331304614_A_smoothing_method_for_sparse_optimization_over_convex_sets">A Smoothing Method for Sparse Optimization over Convex Sets</a>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
  
  You can now find on HAL a new preprint written with Jérémy Omer on [Vertex order with optimal number of adjacent predecessors](https://hal.archives-ouvertes.fr/hal-02025298/).
  
-#### Dec. 18: Conferences
+### Dec. 18: Conferences
 I gave a talk on the KKT conditions of the GNEP during the <a href="https://winter18.cms.math.ca/">2018 CMS Winter Meeting</a> in Vancouver
 
-#### 01 Oct. 18: New Position
+### Oct. 1st 18: New Position
 I started a 2 years post-doc position in Guelph under the supervision of Monica Cojocaru. I will work on bringing optimization methods for Generalized Nash Equilibrium Problems.
 
 <img src="images/neige_jour1.jpg" alt="" />
-#### July 1st 18: New Position</h4>
+### July 1st 18: New Position
 I am back in Sherbrooke for three months after winning a grant in the interdisciplinary program "Programme de bourses d'excellence pour étudiants étrangers" of FRQNT. I will continue working on a solver for degenerate non-linear programs in [Julia](https://julialang.org/) in collaboration with Jean-Pierre Dussault.
 
 #### Spring 18: Conferences
@@ -85,7 +85,7 @@ I gave a talk about interior point method for monotone linear complementarity pr
 
 <img src="images/theta1.png" alt="" />
 #### March 3rd 16: Preprint
-I posted on HAL a work on sparse optimization in collaboration with Mounir Haddou entitled: [A smoothing method for sparse optimization](https://hal.archives-ouvertes.fr/hal-01269975/). I gave a talk on this methods at the (http://projects.laas.fr/GTPM/)[Réunion du Groupe de Travail Programmation Mathématiques]  in Dijon in June 2015, see the [slides](http://projects.laas.fr/GTPM/slides/migot.pdf).
+I posted on HAL a work on sparse optimization in collaboration with Mounir Haddou entitled: [A smoothing method for sparse optimization](https://hal.archives-ouvertes.fr/hal-01269975/). I gave a talk on this methods at the [Réunion du Groupe de Travail Programmation Mathématiques](http://projects.laas.fr/GTPM/)  in Dijon in June 2015, see the [slides](http://projects.laas.fr/GTPM/slides/migot.pdf).
 
 <img src="images/obstacleAVE-graph.png" alt="" /> 							
 <img src="images/byblos.jpg" alt="" />
