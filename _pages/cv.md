@@ -11,8 +11,8 @@ redirect_from:
 
 CV in English
 ======
-[CV](files/cv_english_tangi.pdf)
+[Download](files/cv_english_tangi.pdf)
 
 CV in French
 ======
-[CV](files/cv_francais_tangi.pdf)
+[Download](files/cv_francais_tangi.pdf)
