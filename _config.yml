@@ -78,17 +78,18 @@ analytics:
     tracking_id          :
 
 
+
 # Site Author
 author:
-  name             :  "Your Sidebar Name"
-  avatar           :  "profil2.jpg"
-  bio              :  "Doctor in applied mathematics"
-  location         :  "Guelph, Canada
+  name             : "Tangi Migot"
+  avatar           : "images/profil2-1.png"
+  bio              : "Doctor in applied mathematics"
+  location         : "Guelph, Canada
   employer         :
   pubmed           : 
-  googlescholar    :  "https://scholar.google.fr/citations?user=eDH1GHIAAAAJ&hl=fr&oi=ao"
+  googlescholar    : "https://scholar.google.fr/citations?user=eDH1GHIAAAAJ&hl=fr&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Tangi_Migot"
+  researchgate     : "https://www.researchgate.net/profile/Tangi_Migot"
   uri              :
   bitbucket        :
   codepen          :
