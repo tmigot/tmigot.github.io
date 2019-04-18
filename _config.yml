@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : googlec3cc86bc253b6ef9.html
+google_site_verification : "googlec3cc86bc253b6ef9.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Tangi Migot"
+  name             : "Tangi Migot"
   avatar           : "profil2-1.png"
   bio              : "Doctor in applied mathematics"
-  location         : "Guelph, Canada
+  location         : "Guelph, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=eDH1GHIAAAAJ&hl=fr&oi=ao"
