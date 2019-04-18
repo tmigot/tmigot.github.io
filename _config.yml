@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tangi Migot"
+  name             : #"Tangi Migot"
   avatar           : "profil2-1.png"
   bio              : "Doctor in applied mathematics"
   location         : "Guelph, Canada
