@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV in English
-======
-[Download](files/cv_english_tangi.pdf)
+[CV in english](files/cv_english_tangi.pdf)
 
-CV in French
-======
-[Download](files/cv_francais_tangi.pdf)
+
+[CV in french](files/cv_francais_tangi.pdf)
