@@ -54,7 +54,7 @@ You can now find on HAL [here](https://hal.archives-ouvertes.fr/hal-01584490v1) 
   
 <img src="images/these.JPG" alt="" />
 #### Oct. 6th 17: PhD Defense
-I have successfully defended my PhD thesis in Rennes. You can find the slides [here](pdf/diapo_soutenance_these_Tangi_Migot.pdf) and the manuscript [here](https://www.theses.fr/2017ISAR0026.pdf).
+I have successfully defended my PhD thesis in Rennes. You can find the slides [here](files/diapo_soutenance_these_Tangi_Migot.pdf) and the manuscript [here](https://www.theses.fr/2017ISAR0026.pdf).
 
 #### Oct. 4st 17: Preprint
 I posted on HAL a work that uses difference of convex functions and algorithms approaches to solve a general complementarity problem, in collaboration with Lina Abdallah and Mounir Haddou, entitled: [A Sub-Additive DC Approach to the Complementarity Problem](https://hal.archives-ouvertes.fr/hal-01609835/).
@@ -73,7 +73,7 @@ I posted on HAL a work on the butterfly relaxation method for mathematical progr
 
 <img src="images/butterflyr2t.png" alt="" />
 #### Nov. 16th 16: Conference
-I gave a talk about the butterfly relaxation method for mathematical program with complementarity constraints at the [INFORMS 2016 Annual Meeting](http://meetings2.informs.org/wordpress/nashville2016/), which were organized in the city of music Nashville (Tennessee, US) from 14 to 16 of november 2016, see the [slides](pdf/diapo_MPCC_Butterfly.pdf).
+I gave a talk about the butterfly relaxation method for mathematical program with complementarity constraints at the [INFORMS 2016 Annual Meeting](http://meetings2.informs.org/wordpress/nashville2016/), which were organized in the city of music Nashville (Tennessee, US) from 14 to 16 of november 2016, see the [slides](files/diapo_MPCC_Butterfly.pdf).
 
 <img src="images/poster_HJ2016.png" alt="" />
 #### Conference in Rennes 2016
