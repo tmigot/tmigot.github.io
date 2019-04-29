@@ -13,7 +13,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
   * with J.-P. Dussault and M. Haddou. <i>Mathematical Programs with Vanishing Constraints: Constraint Qualifications, their Applications, and a New Regularization Method</i>, Optimization, 68:2-3, pp. 509-538, 2018, doi:10.1080/02331934.2018.1542531.
   * with J. Erhel. <i>Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</i>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2.
   * with L. Abdallah and M. Haddou. <i>A Sub-Additive DC Approach to the
-    Complementarity Problem</i>, Computational Optimization and Applications, (online) Feb. 2019, pp. 1-26, doi:10.1007/s10589-019-00078-w.
+    Complementarity Problem</i>, Computational Optimization and Applications, 73:2, pp. 509-534, 2019, doi:10.1007/s10589-019-00078-w.
   * with M. Haddou. <i>A Smoothing Method for Sparse Optimization over Convex Sets</i>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
   
 ### Submitted preprints
