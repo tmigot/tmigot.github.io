@@ -16,9 +16,10 @@ Future plans
 ======
   * 13-15 May 19: [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia.
   * 23-26 June 19: [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) co-organizer of the stream Variational analysis, games and intertwined optimization problems
-  * 28-29 June 19: [2019 EUROPT conference, Glasgow, Scotland](http://icelab.uk/europt-2019/)
   * 8-10 July 19: [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr) in the session Complementarity Problems: Applications, Theory and Algorithms
-  * 18-23 Aug. 19: [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) organizer of a special session on optimization
+  * 3-8 Aug. 19: [2019 ICCOPT, Berlin, Germany](https://iccopt2019.berlin/)
+  * 14-16 Aug. 19: [MOPTA 2019, Lehigh, USA](http://coral.ie.lehigh.edu/~mopta/) co-organizer of a special session on game theory
+  * 18-23 Aug. 19: [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) co-organizer of a special session on optimization
 
 News
 ======
