@@ -14,7 +14,6 @@ I am also very fond of chess and a big fan of Stade Rennais FC!
 
 Future plans
 ======
-  * 13-15 May 19: [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia.
   * 23-26 June 19: [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) co-organizer of the stream Variational analysis, games and intertwined optimization problems
   * 8-10 July 19: [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr) in the session Complementarity Problems: Applications, Theory and Algorithms
   * 3-8 Aug. 19: [2019 ICCOPT, Berlin, Germany](https://iccopt2019.berlin/)
@@ -23,6 +22,14 @@ Future plans
 
 News
 ======
+### May 19: Coding
+I a gave talk entitled "Stopping.jl: A framework to implement iterative optimization algorithms" in the [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia. 
+
+You can find the slides [here](diapo_Stopping_JOPT_19.pdf) and the package is available here (for now):
+
+[Stopping.jl](https://github.com/Goysa2/Stopping.jl)
+
+This package is a set of tools to ease the uniformization of stopping criteria in iterative solvers.
 
 ### Winter 19: Publications and a new preprint
 This winter I'm teaching a fun course in Guelph. In the meantime, several papers have been accepted for publication:
