@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My research focus on numerical optimization. I am interested in designing algorithms for nonsmooth optimization problems arising in sparse optimization and for non-convex problems including mathematical programs with complementarity problems, bilevel optimization problems and generalized Nash equilibrium problems. I have defended my thesis in October 2017 under the supervision of Jean-Pierre Dussault and Mounir Haddou.
+My research focus on numerical optimization. I am interested in designing algorithms for nonsmooth optimization problems arising in sparse optimization and for non-convex problems including mathematical programs with complementarity problems, bilevel optimization problems and generalized Nash equilibrium problems.
 
 I am also very fond of chess and a big fan of Stade Rennais FC!
 
 Future plans
 ======
-  * 23-26 June 19: [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) co-organizer of the stream Variational analysis, games and intertwined optimization problems
-  * 8-10 July 19: [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr) in the session Complementarity Problems: Applications, Theory and Algorithms
-  * 3-8 Aug. 19: [2019 ICCOPT, Berlin, Germany](https://iccopt2019.berlin/)
-  * 14-16 Aug. 19: [MOPTA 2019, Lehigh, USA](http://coral.ie.lehigh.edu/~mopta/) co-organizer of a special session on game theory
-  * 18-23 Aug. 19: [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) co-organizer of a special session on optimization
+  * Jan. 23, 2020: [Colloquium in Guelph](https://mathstat.uoguelph.ca/node/414).
+  * Apr. 30th-May 1st, 2020: [Workshop on Dynamics, Optimization and Variational Analysis in Applied Games](http://www.fields.utoronto.ca/activities/19-20/applied-games) co-organizer of a workshop at the Fields Institute.
 
 News
 ======
+### Summer 19: Talks
+I gave a few talks over the summer at the EURO conference [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) (and co-organize a stream on games with 18 talks!), the [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr), the [2019 ICCOPT, Berlin, Germany](https://iccopt2019.berlin/), the [MOPTA 2019, Lehigh, USA](http://coral.ie.lehigh.edu/~mopta/) and finally the [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) (co-organize of a special session on optimization). 
+Now, back in Guelph for a second year and teach a new class this Fall.
+
 ### May 19: Coding
 I a gave talk entitled "Stopping.jl: A framework to implement iterative optimization algorithms" in the [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia. 
 
