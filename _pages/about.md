@@ -25,7 +25,7 @@ News
 ### May 19: Coding
 I a gave talk entitled "Stopping.jl: A framework to implement iterative optimization algorithms" in the [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia. 
 
-You can find the slides [here](diapo_Stopping_JOPT_19.pdf) and the package is available here (for now):
+You can find the slides [here](../files/diapo_Stopping_JOPT_19.pdf) and the package is available here (for now):
 
 [Stopping.jl](https://github.com/Goysa2/Stopping.jl)
 
