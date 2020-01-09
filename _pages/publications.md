@@ -8,6 +8,9 @@ author_profile: true
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>.
 
 ### Accepted papers
+  * with M.-G. Cojocaru and A. Jaber. <i>Controlling infection in predator-prey systems with transmission dynamics</i>, Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
+  * with J. Omer. <i>Vertex ordering with optimal number of adjacent predecessors</i>, to appear in Discrete Mathematics \& Theoretical Computer Science, 2019.
+  * with M.-G. Cojocaru. <i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>, to appear in European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
   * with M. Haddou. <i>A Smoothing Method for Sparse Optimization over Convex Sets</i>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
   * with L. Abdallah and M. Haddou. <i>A Sub-Additive DC Approach to the
     Complementarity Problem</i>, Computational Optimization and Applications, 73:2, pp. 509-534, 2019, doi:10.1007/s10589-019-00078-w.
@@ -17,9 +20,8 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
   * with L. Abdallah and M. Haddou, <i>Solving absolute value equation using complementarity and smoothing functions</i>, Journal of Computational and Applied Mathematics, Vol. 327, 2018, pp. 196-207, doi:10.1016/j.cam.2017.06.019.
   
 ### Submitted preprints
-  * with M. Cojocaru. <i>A decomposition method for convex generalized Nash equilibrium problems</i>, submitted, 2019.
-  * with M. Cojocaru. <i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>, submitted, 2019.
-  * with J. Omer. <i>Vertex order with optimal number of adjacent predecessors</i>, HAL, 2019.
+  * with M.-G. Cojocaru. <i>A dynamical system  approach to the generalized Nash equilibrium problem</i>, submitted, 2019.
+  * with M.-G. Cojocaru. <i>A decomposition method for convex generalized Nash equilibrium problems</i>, submitted, 2019.
   * with J.-P. Dussault and M. Haddou. <i>A unified framework of regularization methods for degenerate non-linear optimization models</i>, HAL, 2018.
   * with M. Haddou, J.-P. Dussault and A. Kadrani. <i>How to compute an M-stationary point of the MPCC</i>, optimization-online.org, 2017.
   * with M. Haddou and J.-P. Dussault.  <i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>, optimization-online.org, 2016.
