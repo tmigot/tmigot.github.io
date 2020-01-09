@@ -14,11 +14,30 @@ I am also very fond of chess and a big fan of Stade Rennais FC!
 
 Future plans
 ======
-  * Jan. 23, 2020: [Colloquium in Guelph](https://mathstat.uoguelph.ca/node/414).
+  * Jan. 23rd, 2020: [Colloquium in Guelph](https://mathstat.uoguelph.ca/node/414).
+  * Mar. 5th, 2020: [Seminar in Avignon]()
+  * Mar. 12th, 2020: [Seminar in Perpignan]()
+  * Mar. 20th, 2020: [Seminar in Limoges]()
   * Apr. 30th-May 1st, 2020: [Workshop on Dynamics, Optimization and Variational Analysis in Applied Games](http://www.fields.utoronto.ca/activities/19-20/applied-games) co-organizer of a workshop at the Fields Institute.
 
 News
 ======
+### Fall 19: Publications
+I taught a new course in Guelph this Fall, and in the meantime 3 papers have been accepted.
+* The first paper in a series on numerical methods for the GNEP:
+
+T. Migot, M.-G. Cojocaru. <i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>, European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
+
+* A work on the complexity of some ordering problems:
+
+J. Omer, T. Migot. <i>Vertex ordering with optimal number of adjacent predecessors</i>, Discrete Mathematics \& Theoretical Computer Science, 2019.
+
+* Finally, an optimal control formulation in a prophylactic treatment strategy for a predator-prey system:
+
+M.-G. Cojocaru, T. Migot and A. Jaber. <i>Controlling infection in predator-prey systems with transmission dynamics</i>, Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
+
+This works was the final chapter in Ahmed's thesis successfully defended, good luck for your future!
+
 ### Summer 19: Talks
 I gave a few talks over the summer at the EURO conference [2019 EURO conference, Dublin, Ireland](https://www.euro2019dublin.com/) (and co-organize a stream on games with 18 talks!), the [2019 World Congress on Global Optimization, Metz, France](https://wcgo2019.event.univ-lorraine.fr), the [2019 ICCOPT, Berlin, Germany](https://iccopt2019.berlin/), the [MOPTA 2019, Lehigh, USA](http://coral.ie.lehigh.edu/~mopta/) and finally the [AMMCS-2019, Waterloo, Ontario](http://www.ammcs.wlu.ca/) (co-organize of a special session on optimization). 
 Now, back in Guelph for a second year and teach a new class this Fall.
@@ -38,7 +57,7 @@ This winter I'm teaching a fun course in Guelph. In the meantime, several papers
   * with L. Abdallah and M. Haddou. <a href="https://hal.archives-ouvertes.fr/hal-01609835v2/">A Sub-Additive DC Approach to the Complementarity Problem</a>, Computational Optimization and Applications, (online) Feb. 2019, pp. 1-26, doi:10.1007/s10589-019-00078-w
   * with Mounir Haddou. <a href="https://www.researchgate.net/publication/331304614_A_smoothing_method_for_sparse_optimization_over_convex_sets">A Smoothing Method for Sparse Optimization over Convex Sets</a>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
  
- You can now find on HAL a new preprint written with Jérémy Omer on [Vertex order with optimal number of adjacent predecessors](https://hal.archives-ouvertes.fr/hal-02025298/).
+ You can now find on HAL a new preprint written with Jérémy Omer on [Vertex ordering with optimal number of adjacent predecessors](https://hal.archives-ouvertes.fr/hal-02025298/).
  
 ### Dec. 18: Conferences
 I gave a talk on the KKT conditions of the GNEP during the <a href="https://winter18.cms.math.ca/">2018 CMS Winter Meeting</a> in Vancouver
