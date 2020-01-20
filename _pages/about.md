@@ -22,19 +22,28 @@ Future plans
 
 News
 ======
+### Conference in Toronto, 2020
+
+We are organizing with Monica Cojocaru the Workshop on Dynamics, Optimization and Variational Analysis in Applied Games at [the Fields Institute](http://www.fields.utoronto.ca/describe/host-institutions/fields-institute) in Toronto (Apr. 30-May 1).
+This event is designed to bridge the gap between several fields of applied mathematics and games.
+
+If you want to contribute to this exciting event please contact us.
+
+[Workshop on Dynamics, Optimization and Variational Analysis in Applied Games](http://www.fields.utoronto.ca/activities/19-20/applied-games)
+
 ### Fall 19: Publications
 I taught a new course in Guelph this Fall, and in the meantime 3 papers have been accepted.
 * The first paper in a series on numerical methods for the GNEP:
 
-T. Migot, M.-G. Cojocaru. <i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>, European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
+T. Migot, M.-G. Cojocaru. [<i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>](https://doi.org/10.1016/j.ejor.2019.11.054), European Journal of Operation Research, 2019.
 
 * A work on the complexity of some ordering problems:
 
-J. Omer, T. Migot. <i>Vertex ordering with optimal number of adjacent predecessors</i>, Discrete Mathematics \& Theoretical Computer Science, 2019.
+J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://www.researchgate.net/publication/338115489_Vertex_ordering_with_optimal_number_of_adjacent_predecessors), Discrete Mathematics \& Theoretical Computer Science, 2019.
 
 * Finally, an optimal control formulation in a prophylactic treatment strategy for a predator-prey system:
 
-M.-G. Cojocaru, T. Migot and A. Jaber. <i>Controlling infection in predator-prey systems with transmission dynamics</i>, Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
+M.-G. Cojocaru, T. Migot and A. Jaber. [<i>Controlling infection in predator-prey systems with transmission dynamics</i>](https://doi.org/10.1016/j.idm.2019.12.002), Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11.
 
 This work was the final chapter in Ahmed's thesis successfully defended, good luck for your future!
 
