@@ -24,7 +24,7 @@ News
 ======
 ### Conference in Toronto, 2020
 
-We are organizing with Monica Cojocaru the Workshop on Dynamics, Optimization and Variational Analysis in Applied Games at [the Fields Institute](http://www.fields.utoronto.ca/describe/host-institutions/fields-institute) in Toronto (Apr. 30-May 1).
+We are organizing with [Monica Cojocaru](https://sites.google.com/site/mgcojocarumath/) the Workshop on Dynamics, Optimization and Variational Analysis in Applied Games at [the Fields Institute](http://www.fields.utoronto.ca/describe/host-institutions/fields-institute) in Toronto (Apr. 30-May 1).
 This event is designed to bridge the gap between several fields of applied mathematics and games.
 
 If you want to contribute to this exciting event please contact us.
