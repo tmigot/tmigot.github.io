@@ -8,25 +8,25 @@ author_profile: true
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>.
 
 ### Accepted papers
-  * with M.-G. Cojocaru and A. Jaber. <i>Controlling infection in predator-prey systems with transmission dynamics</i>, Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
-  * with J. Omer. <i>Vertex ordering with optimal number of adjacent predecessors</i>, to appear in Discrete Mathematics \& Theoretical Computer Science, 2019.
-  * with M.-G. Cojocaru. <i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>, to appear in European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
-  * with M. Haddou. <i>A Smoothing Method for Sparse Optimization over Convex Sets</i>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
-  * with L. Abdallah and M. Haddou. <i>A Sub-Additive DC Approach to the
+  * M.-G. Cojocaru, T. Migot and A. Jaber. [<i>Controlling infection in predator-prey systems with transmission dynamics</i>](https://doi.org/10.1016/j.idm.2019.12.002), Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
+  * J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://www.researchgate.net/publication/338115489_Vertex_ordering_with_optimal_number_of_adjacent_predecessors), Discrete Mathematics \& Theoretical Computer Science, 2019.
+  * T. Migot, M.-G. Cojocaru. [<i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>](https://doi.org/10.1016/j.ejor.2019.11.054), European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
+  * M. Haddou, T. Migot. <i>A Smoothing Method for Sparse Optimization over Convex Sets</i>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
+  * L. Abdallah, M. Haddou, T. Migot. <i>A Sub-Additive DC Approach to the
     Complementarity Problem</i>, Computational Optimization and Applications, 73:2, pp. 509-534, 2019, doi:10.1007/s10589-019-00078-w.
-  * with J. Erhel. <i>Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</i>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2. 
-  * with J.-P. Dussault and M. Haddou. <i>Mathematical Programs with Vanishing Constraints: Constraint Qualifications, their Applications, and a New Regularization Method</i>, Optimization, 68:2-3, pp. 509-538, 2018, doi:10.1080/02331934.2018.1542531.
-  * with M. Haddou and J. Omer. <i>A generalized direction in interior point method for monotone linear complementarity problems</i>, Optimization Letters, 2018, pp. 1-19,  doi:10.1007/s11590-018-1241-2.
-  * with L. Abdallah and M. Haddou, <i>Solving absolute value equation using complementarity and smoothing functions</i>, Journal of Computational and Applied Mathematics, Vol. 327, 2018, pp. 196-207, doi:10.1016/j.cam.2017.06.019.
+  * J. Erhel, T. Migot. <i>Characterizations of Solutions in Geochemistry: Existence, Uniqueness and Precipitation Diagram</i>, Computational Geosciences, (online) Dec. 2018, pp. 1-13, doi:10.1007/s10596-018-9800-2. 
+  * J.-P. Dussault, M. Haddou, and T. Migot. <i>Mathematical Programs with Vanishing Constraints: Constraint Qualifications, their Applications, and a New Regularization Method</i>, Optimization, 68:2-3, pp. 509-538, 2018, doi:10.1080/02331934.2018.1542531.
+  * M. Haddou, T. Migot and J. Omer. <i>A generalized direction in interior point method for monotone linear complementarity problems</i>, Optimization Letters, 2018, pp. 1-19,  doi:10.1007/s11590-018-1241-2.
+  * L. Abdallah, M. Haddou, and T. Migot. <i>Solving absolute value equation using complementarity and smoothing functions</i>, Journal of Computational and Applied Mathematics, Vol. 327, 2018, pp. 196-207, doi:10.1016/j.cam.2017.06.019.
   
 ### Submitted preprints
-  * with M.-G. Cojocaru. <i>A dynamical system  approach to the generalized Nash equilibrium problem</i>, submitted, 2019.
-  * with M.-G. Cojocaru. <i>A decomposition method for convex generalized Nash equilibrium problems</i>, submitted, 2019.
-  * with J.-P. Dussault and M. Haddou. <i>A unified framework of regularization methods for degenerate non-linear optimization models</i>, HAL, 2018.
-  * with M. Haddou, J.-P. Dussault and A. Kadrani. <i>How to compute an M-stationary point of the MPCC</i>, optimization-online.org, 2017.
-  * with M. Haddou and J.-P. Dussault.  <i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>, optimization-online.org, 2016.
+  * T. Migot, M.-G. Cojocaru. <i>A dynamical system  approach to the generalized Nash equilibrium problem</i>, submitted, 2019.
+  * T. Migot, M.-G. Cojocaru. <i>A decomposition method for convex generalized Nash equilibrium problems</i>, submitted, 2019.
+  * J.-P. Dussault, M. Haddou, and T. Migot. <i>A unified framework of regularization methods for degenerate non-linear optimization models</i>, HAL, 2018.
+  * J.-P. Dussault, M. Haddou, A. Kadrani, and T. Migot. <i>How to compute an M-stationary point of the MPCC</i>, optimization-online.org, 2017.
+  * J.-P. Dussault, M. Haddou, and T. Migot.  <i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>, optimization-online.org, 2016.
   
 ### Conference publications
-  * with L. Abdallah and M. Haddou. <i>Solving mathematical programs with complementarity constraints with a penalization approach</i>, World Congress on Global Optimization, pp. 228-237. Springer, Cham, 2019.
-  * with L. Abdallah and M. Haddou. <i>A Sub-Additive Merit Function for Complementarity Problems and Application</i>, Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications. ACM, 2018.
-  * with M. Haddou. <i>A Smoothing Method for Sparse Optimization over Polyhedral Sets</i>, Springer, Modelling, Computation and Optimization in Information Systems and Management Sciences Proceedings of the 3rd International Conference MCO 2015 - Part I, 359, pp.369-379, 2015, Advances in Intelligent Systems and Computing.
+  * L. Abdallah, T. Migot, and M. Haddou. <i>Solving mathematical programs with complementarity constraints with a penalization approach</i>, World Congress on Global Optimization, pp. 228-237. Springer, Cham, 2019.
+  * T. Migot, L. Abdallah, and M. Haddou. <i>A Sub-Additive Merit Function for Complementarity Problems and Application</i>, Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications. ACM, 2018.
+  * T. Migot, M. Haddou. <i>A Smoothing Method for Sparse Optimization over Polyhedral Sets</i>, Springer, Modelling, Computation and Optimization in Information Systems and Management Sciences Proceedings of the 3rd International Conference MCO 2015 - Part I, 359, pp.369-379, 2015, Advances in Intelligent Systems and Computing.
