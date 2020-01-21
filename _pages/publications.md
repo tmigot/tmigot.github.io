@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
 
 ### Accepted papers
   * M.-G. Cojocaru, T. Migot and A. Jaber. [<i>Controlling infection in predator-prey systems with transmission dynamics</i>](https://doi.org/10.1016/j.idm.2019.12.002), Infectious Disease Modelling, Vol. 5, 2020, pp. 1-11, doi:10.1016/j.idm.2019.12.002.
-  * J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://www.researchgate.net/publication/338115489_Vertex_ordering_with_optimal_number_of_adjacent_predecessors), Discrete Mathematics \& Theoretical Computer Science, 2019.
+  * J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://dmtcs.episciences.org/5996), Discrete Mathematics \& Theoretical Computer Science, 22:01, 2020.
   * T. Migot, M.-G. Cojocaru. [<i>A parametrized variational inequality approach to track the solution set of a generalized Nash equilibrium problem</i>](https://doi.org/10.1016/j.ejor.2019.11.054), European Journal of Operation Research, 2019, doi:10.1016/j.ejor.2019.11.054.
   * M. Haddou, T. Migot. <i>A Smoothing Method for Sparse Optimization over Convex Sets</i>, Optimization Letters, (online) Feb. 2019, pp. 1-17, doi:10.1007/s11590-019-01408-x.
   * L. Abdallah, M. Haddou, T. Migot. <i>A Sub-Additive DC Approach to the
