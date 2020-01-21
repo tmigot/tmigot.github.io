@@ -39,7 +39,7 @@ T. Migot, M.-G. Cojocaru. [<i>A parametrized variational inequality approach to 
 
 * A work on the complexity of some ordering problems:
 
-J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://www.researchgate.net/publication/338115489_Vertex_ordering_with_optimal_number_of_adjacent_predecessors), Discrete Mathematics \& Theoretical Computer Science, 2019.
+J. Omer, T. Migot. [<i>Vertex ordering with optimal number of adjacent predecessors</i>](https://dmtcs.episciences.org/5996), Discrete Mathematics \& Theoretical Computer Science, 2019.
 
 * Finally, an optimal control formulation in a prophylactic treatment strategy for a predator-prey system:
 
