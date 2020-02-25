@@ -1,7 +1,7 @@
 ---
 title: 'Talk INFORMS'
 date: 2016-11-16
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2016/11/talk-november-16/
 tags:
   - conference
   - talks
