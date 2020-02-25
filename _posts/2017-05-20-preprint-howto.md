@@ -1,7 +1,7 @@
 ---
 title: 'Preprint'
 date: 2017-05-20
-permalink: /posts/2019/fall/
+permalink: /posts/2017/05/preprint-howto/
 tags:
   - publications
   - MPCC
