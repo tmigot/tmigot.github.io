@@ -1,7 +1,7 @@
 ---
 title: 'New Position in Guelph'
 date: 2018-10-01
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2018/10/position-guelph/
 tags:
   - position
   - postdoc
