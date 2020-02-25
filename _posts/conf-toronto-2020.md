@@ -1,6 +1,6 @@
 ---
 title: 'Conference in Toronto, 2020'
-date: 2012-02-01
+date: 2020-02-01
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - workshop
