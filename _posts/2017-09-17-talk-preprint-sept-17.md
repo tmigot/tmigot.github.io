@@ -1,7 +1,7 @@
 ---
 title: 'Conference'
 date: 2017-09-17
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2017/09/talk-preprint-sept-17/
 tags:
   - conference
   - talks
