@@ -1,7 +1,7 @@
 ---
-title: 'Conference in Toronto, 2020'
+title: 'Conference in Toronto'
 date: 2020-02-01
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2020/02/conf-toronto/
 tags:
   - workshop
   - conference
