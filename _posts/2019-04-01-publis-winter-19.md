@@ -1,7 +1,7 @@
 ---
 title: 'Winter 19: Publications and a new preprint'
 date: 2019-04-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2019/04/publis-winter-19/
 tags:
   - publications
   - geochemistry
