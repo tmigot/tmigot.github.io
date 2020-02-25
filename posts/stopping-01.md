@@ -1,0 +1,16 @@
+---
+title: 'Stopping v.0.1'
+date: 2019-05-10
+permalink: /posts/2014/08/blog-post-3/
+tags:
+  - programming
+  - Julia
+  - Stopping
+---
+I gave a talk entitled "Stopping.jl: A framework to implement iterative optimization algorithms" in the [Journées de l'optimisation 2019, Montréal, Québec](https://symposia.cirrelt.ca/JOPT2019/fr/home) in the session Optimization in Julia to introduce our new Julia package.
+
+You can find the slides [here](../files/diapo_Stopping_JOPT_19.pdf) and the package is available here (for now):
+
+[Stopping.jl](https://github.com/Goysa2/Stopping.jl)
+
+This package is a set of tools to ease the uniformization of stopping criteria in iterative solvers.
