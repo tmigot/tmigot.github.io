@@ -1,7 +1,7 @@
 ---
 title: 'PhD Defense'
 date: 2017-10-06
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2017/10/phd-defense/
 tags:
   - PhD
   - MPCC
