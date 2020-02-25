@@ -1,5 +1,5 @@
 ---
-title: 'Conference in Rennes, 2016'
+title: 'Conference in Rennes'
 date: 2016-05-01
 permalink: /posts/2016/05/conf-rennes/
 tags:
