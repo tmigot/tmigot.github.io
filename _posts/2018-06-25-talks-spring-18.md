@@ -1,7 +1,7 @@
 ---
 title: 'Spring 18: Talks'
 date: 2018-06-25
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2018/06/talks-spring-18/
 tags:
   - conference
   - talks
