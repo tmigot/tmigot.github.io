@@ -23,6 +23,6 @@ Future plans
 
 News
 ======
-{% for post in site.pages %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
