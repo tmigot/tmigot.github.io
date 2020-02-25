@@ -1,7 +1,7 @@
 ---
 title: 'Publication'
 date: 2016-02-16
-permalink: /posts/2019/fall/
+permalink: /posts/2016/02/publis-feb/
 tags:
   - publications
   - AVE
