@@ -1,7 +1,7 @@
 ---
 title: 'Fall 2019: Publications'
 date: 2019-12-01
-permalink: /posts/2019/fall/
+permalink: /posts/2019/12/publis-fall/
 tags:
   - publications
   - GNEP
