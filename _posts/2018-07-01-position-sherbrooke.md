@@ -1,5 +1,5 @@
 ---
-title: 'New Position in Guelph'
+title: 'New Position in Sherbrooke'
 date: 2018-07-01
 permalink: /posts/2018/07/position-sherbrooke/
 tags:
