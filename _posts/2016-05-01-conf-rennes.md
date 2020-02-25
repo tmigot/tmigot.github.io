@@ -1,7 +1,7 @@
 ---
 title: 'Conference in Rennes, 2016'
 date: 2016-05-01
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2016/05/conf-rennes/
 tags:
   - workshop
   - conference
