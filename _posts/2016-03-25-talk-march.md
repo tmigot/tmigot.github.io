@@ -1,7 +1,7 @@
 ---
 title: 'Talk and publication'
 date: 2016-03-25
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2016/03/talk-march/
 tags:
   - conference
   - talks
