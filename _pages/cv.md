@@ -12,4 +12,4 @@ redirect_from:
 [CV in english](../files/cv-english-tangi-migot.pdf)
 
 
-[CV in french](../files/cv_francais_tangi.pdf)
+<!--[CV in french](../files/cv_francais_tangi.pdf)
