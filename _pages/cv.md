@@ -10,3 +10,5 @@ redirect_from:
 {% include base_path %}
 
 [CV in english](../files/cv-english-tangi-migot.pdf)
+
+[CV in french](../files/cv-francais-tangi-migot.pdf)
