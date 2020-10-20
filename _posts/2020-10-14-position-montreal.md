@@ -1,5 +1,5 @@
 ---
-title: 'New Position in Montreal'
+title: 'New Position in Montréal'
 date: 2020-10-14
 permalink: /posts/2020/10/position-montreal/
 tags:
