@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>.
 
 ### Accepted papers
+  * T. Migot, M.-G. Cojocaru. [<i>A decomposition method for convex generalized Nash equilibrium problems</i>](http://link.springer.com/article/10.1007/s11081-020-09578-9), online, 2020.
   * J.-P. Dussault, M. Haddou, A. Kadrani, and T. Migot. [<i>On approximate stationary points of the regularized mathematical program with complementarity constraints</i>](https://link.springer.com/article/10.1007/s10957-020-01706-w), Journal of Optimization Theory and Applications, 186:2, pp. 504--522 2020, doi:10.1007/s10957-020-01706-w.
   * T. Migot, M.-G. Cojocaru. [<i>A dynamical system  approach to the generalized Nash equilibrium problem</i>](http://jnva.biemdas.com/archives/954), Journal of Nonlinear and Variational Analysis, 4:1, pp. 27--44, 2020, doi:10.23952/jnva.4.2020.1.04.
   * M.-G. Cojocaru, T. Migot, and A. Jaber. [<i>Controlling infection in predator-prey systems with transmission dynamics</i>](https://doi.org/10.1016/j.idm.2019.12.002), Infectious Disease Modelling, 5:1, pp. 1--11, 2020, doi:10.1016/j.idm.2019.12.002.
@@ -22,7 +23,6 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
 
 ### Submitted preprints
   * T. Migot, M.-G. Cojocaru. <i>On Minty variational inequalities and evolutionary stable states of generalized stable games</i>, submitted, 2020.
-  * T. Migot, M.-G. Cojocaru. <i>A decomposition method for convex generalized Nash equilibrium problems</i>, submitted, 2019.
   * J.-P. Dussault, M. Haddou, and T. Migot. <i>A unified framework of regularization methods for degenerate non-linear optimization models</i>, HAL, 2018.
   * J.-P. Dussault, M. Haddou, and T. Migot.  <i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>, accepted as a book chapter in the Proceedings of the Indo-French Seminar, Springer Nature, 2020.
 
