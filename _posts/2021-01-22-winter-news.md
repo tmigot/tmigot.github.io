@@ -9,7 +9,7 @@ tags:
   - Guelph
   - Julia
 ---
-Some news following our work with Dr. M. Cojocaru in Guelph with an 
+Some news following our work in Guelph with an 
 [article on the website of the CEPS Guelph](https://www.uoguelph.ca/ceps/news/2021/01/mathematical-methods-changing-game)
 presenting some nice applications of GNEPs.
 
