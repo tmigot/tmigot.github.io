@@ -14,7 +14,7 @@ I am also very fond of chess and a big fan of Stade Rennais FC!
 
 Future plans
 ======
-  * [...]
+  * February, 26th. [Séminaire du LMBA](http://web.univ-ubs.fr/lmba/seminaire/seminaire.html)
 
 News
 ======
