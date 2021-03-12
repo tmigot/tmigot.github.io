@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>.
 
 ### Accepted papers
+  * M. Nahirniak, M.-G. Cojocaru, and T. Migot. [<i>A leader-followers game of emergency preparedness for aderse events</i>], Mathematics in Applied Sciences and Engineering, (online) 2021.
   * T. Migot, M.-G. Cojocaru. [<i>On Minty variational inequalities and evolutionary stable states of generalized stable games</i>](https://www.sciencedirect.com/science/article/pii/S0167637720301875), Operations Research Letters, 49:1, pp. 96--100, 2021.
   * T. Migot, M.-G. Cojocaru. [<i>A decomposition method for convex generalized Nash equilibrium problems</i>](http://link.springer.com/article/10.1007/s11081-020-09578-9), Optimization and Engineering, online, 2020, doi:10.1007/s11081-020-09578-9.
   * J.-P. Dussault, M. Haddou, A. Kadrani, and T. Migot. [<i>On approximate stationary points of the regularized mathematical program with complementarity constraints</i>](https://link.springer.com/article/10.1007/s10957-020-01706-w), Journal of Optimization Theory and Applications, 186:2, pp. 504--522 2020, doi:10.1007/s10957-020-01706-w.
