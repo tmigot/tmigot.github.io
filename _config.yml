@@ -11,7 +11,7 @@ title                    : "Guingamp-Echecs Stream"
 title_separator          : "-"
 name                     : &name "Guingamp-echecs Stream"
 description              : &description "Le site officiel du compte stream Guingamp/Gwengamp-echecs"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guingamp-echecs-stream.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guingamp-echecs-stream/guingamp-echecs-stream.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guingamp-Echecs Stream"
-  avatar           : "profil.png"
+  avatar           : "gwengamp-chess.png"
   bio              : "Le site de la chaine de streaming guingamp-echecs"
   location         : "Bretagne"
   employer         :
