@@ -14,7 +14,7 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Lundi 3 Mai à 19h30 : (retour sur les meilleurs perfs du championnat d'Europe des équipes)
+  * Lundi 3 Mai à 19h30 : retour sur les meilleurs perfs du championnat d'Europe des équipes avec Pierre et Alexandre
   * Samedi 8 Mai à 18h00 : blitz et annonce du programme du mois de Mai
 
 News
