@@ -8,7 +8,7 @@ tags:
 ---
 
 
-C'est officiel, la chaîne Guingamp-Echecs Stream est lancé.
+C'est officiel, la chaîne Guingamp-Echecs Stream est lancée.
 
 C'est l'histoire d'un groupe d'amis fans d'échecs qui ont pour point commun d'être (presque) tous passés par l'échiquier guingampais.
 Après le succès de la retransmission de notre participation au championnat d'Europe des clubs, nous allons continuer à partager notre passion avec fun et pédagogie.
