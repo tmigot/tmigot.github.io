@@ -91,6 +91,9 @@
       {% if author.twitch %}
         <li><a href="https://www.twitch.tv/{{ author.twitch }}"><i class="fab fa-fw fa-twitch" aria-hidden="true"></i> Twitch</a></li>
       {% endif %}
+      {% if author.lichess %}
+        <li><a href="https://lichess.org/@/{{ author.lichess }}"><i class="fab fa-fw fa-lichess" aria-hidden="true"></i> Lichess</a></li>
+      {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
