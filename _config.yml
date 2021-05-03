@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            : guingamp.echecs.stream@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://www.twitch.tv/gwengamp_chess
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -110,7 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  twitch           : https://www.twitch.tv/gwengamp_chess
+  twitch           : gwengamp_chess
   vine             :
   weibo            :
   xing             :
