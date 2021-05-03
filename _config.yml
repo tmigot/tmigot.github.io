@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : wTx1nPG73UwiLxHAFgt668Xbm4uO1diBDxm5z3Bevcc
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            : guingamp.echecs.stream@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://www.twitch.tv/gwengamp_chess
   bitbucket        :
   codepen          :
   dribbble         :
