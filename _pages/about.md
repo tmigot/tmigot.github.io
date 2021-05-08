@@ -17,6 +17,13 @@ Nos prochains rendez-vous
   * Samedi 8 Mai à 18h00 : blitz et annonce du programme du mois de Mai
   * Samedi 15 Mai à 18h00 : match au sommet
 
+Challenge Gwengamp Chess
+======
+
+Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs :
+![](../images/poules.png)
+
+Les matchs commencent cette semaine, restez connecté pour connaître les prochains streams.
 
 News
 ======
