@@ -20,7 +20,7 @@ Nos prochains rendez-vous
 Challenge Gwengamp Chess
 ======
 
-Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs.
+Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs.    
 Nous avons tiré au sort la composition des groupes :
 ![](../images/poules.png)
 
