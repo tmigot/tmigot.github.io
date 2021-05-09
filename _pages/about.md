@@ -14,7 +14,6 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Samedi 8 Mai à 18h00 : blitz et annonce du programme du mois de Mai
   * Samedi 15 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
@@ -22,11 +21,12 @@ Nos prochains rendez-vous
 Challenge Gwengamp Chess
 ======
 
-Du 8 Mai au 4 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs.    
+Du 8 Mai au 4 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs, revoir [la présentation sur youtube](https://www.youtube.com/watch?v=ARqkzBN-I2k).    
 Nous avons tiré au sort la composition des groupes :
 ![](../images/poules.png)
 
 Les matchs commencent cette semaine, restez connecté pour connaître les prochains streams.
+Le détail des appariements, calendrier des matchs et classements sont disponibles [sur ce lien](https://docs.google.com/spreadsheets/d/1KcM92fU3VAFJtJLrZHnmAvBvIPzSW0i4ZX-RKlkoq_I/edit?usp=sharing).
 
 News
 ======
