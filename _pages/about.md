@@ -14,6 +14,7 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
+  * Lundi 10 Mai à 20h45 : MI Ludovic Lejarre vs David Najart (R1 du trophée gwengamp chess)
   * Samedi 15 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
