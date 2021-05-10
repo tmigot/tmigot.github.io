@@ -14,7 +14,10 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Lundi 10 Mai à 20h45 : MI Ludovic Lejarre vs David Najart (R1 du trophée)
+  * Lundi 10 Mai à 20h45 : MI Ludovic LEJARRE vs David NAJART (R1 du trophée)
+  * Mardi 11 Mai à 17h45 : Mf Simon VIEL vs MI Tangi MIGOT (R1 du trophée)
+  * Mercredi 12 Mai à 17h45 : MI Lucas DI NICOLANTONIO vs MI Pierre BAILET (R1 du trophée)
+  * Jeudi 13 Mai à 20h45 : Mf Sven CHARMETEAU vs Mf Floryan EUGENE (R1 du trophée)
   * Samedi 15 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
