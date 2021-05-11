@@ -14,10 +14,9 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Mardi 11 Mai à 18h15 : Mf Simon VIEL vs MI Tangi MIGOT (R1 du trophée)
-  * Mercredi 12 Mai à 17h45 : MI Lucas DI NICOLANTONIO vs MI Pierre BAILET (R1 du trophée)
+  * Mercredi 12 Mai à 17h45 : MI Lucas DI NICOLANTONIO vs MI Pierre BAILET (R1 du trophée) Pas de stream - recap' samedi.
   * Jeudi 13 Mai à 20h45 : Mf Sven CHARMETEAU vs Mf Floryan EUGENE (R1 du trophée)
-  * Samedi 15 Mai à 18h00 : match au sommet (trophée gwengamp chess)
+  * Samedi 15 Mai à 18h00 : Recap' de la semaine (trophée gwengamp chess)
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
 
