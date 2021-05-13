@@ -14,9 +14,10 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Jeudi 13 Mai à 20h45 : Mf Sven CHARMETEAU vs Mf Floryan EUGENE (R1 du trophée)
   * Vendredi 14 Mai à 18h00 : On analyse les parties du tournoi du club sur Lichess.org [(le site du club)](http://www.echiquierguingampais.com/)
   * Samedi 15 Mai à 18h00 : Recap' de la semaine (trophée gwengamp chess)
+  * Dimanche 16 Mai à 17h00 : MI Tangi Migot vs MI Lucas Di Nicolantonio (R2 du trophée)
+  * *les autres parties de la semaine sont en cours d'organisation*
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
 
