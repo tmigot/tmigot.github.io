@@ -14,7 +14,8 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Samedi 15 Mai à 18h00 : Recap' de la semaine (trophée gwengamp chess)
+  * Samedi 15 Mai à 18h00 : Recap' de la semaine (trophée gwengamp chess)       
+  suivi de la [4ème édition du tournoi inter-ligue](https://lichess.org/team/ligue-de-bretagne) à 20h sur Lichess.org.
   * Dimanche 16 Mai à 17h00 : MI Tangi MIGOT vs MI Lucas DI NICOLANTONIO (R2 du trophée)
   * Mardi 18 Mai à 20h30 : David NAJART vs Mf Sven CHARMETEAU (R2 du trophée)
   * *les autres parties de la semaine sont en cours d'organisation*
