@@ -12,3 +12,10 @@ Si vous avez besoin d'images ou de faire un lien vers un fichier dans ce post, d
 ### Modifier le "Qui sommes-nous ?"/"Nos prochains rendez-vous"
 
 Le texte de présentation et le titre se situent dans le fichier `_pages/about.md`.
+
+## Revue de presse
+
+Je garde ici trace de là où on parle du stream, au cas où on veuille en faire quelque chose plus tard:
+- sur le site de la ligue: https://echecs-bretagne.fr/node/2322
+- sur le site du club: http://www.echiquierguingampais.com/evenementsanimations/notre-chaine-sur-twitch/
+- à compléter
