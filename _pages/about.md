@@ -14,9 +14,9 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
+  * Lundi 17 Mai à 21h00 : Mf Floryan Eugene vs MI Ludovic Lejarre (R2 du trophée)
   * Mardi 18 Mai à 20h30 : David NAJART vs Mf Sven CHARMETEAU (R2 du trophée)
   * Mercredi 19 Mai à 20h00 : MI Pierre BAILET vs Mf Simon VIEL (R2 du trophée)
-  * *les autres parties de la semaine sont en cours d'organisation*
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
 
