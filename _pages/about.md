@@ -14,7 +14,6 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Mardi 18 Mai à 20h30 : David NAJART vs Mf Sven CHARMETEAU (R2 du trophée)
   * Mercredi 19 Mai à 20h00 : MI Pierre BAILET vs Mf Simon VIEL (R2 du trophée)
   * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
