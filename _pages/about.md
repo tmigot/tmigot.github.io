@@ -14,9 +14,12 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Samedi 22 Mai à 18h00 : match au sommet (trophée gwengamp chess)
-  * *Les matchs de la 3è semaine sont en cours d'organisation*
+  * Dimanche 23 Mai à 20h30 : IM Lucas DI NICOLANTONIO - Mf Simon VIEL
+  * Lundi 24 Mai à 20h45 : IM Pierre BAILET - IM Tangi MIGOT
+  * Mardi 25 Mai à 21h00 : IM Ludovic LEJARRE - Mf Sven CHARMETEAU
+  * *Le match David NAJART vs Mf Floryan EUGENE est en cours d'organisation*
   * Samedi 29 Mai à 18h00 : match au sommet (trophée gwengamp chess)
+  * Samedi 29 Mai à 20h00 : tournoi inter-ligue sur Lichess.org
 
 Challenge Gwengamp Chess
 ======
