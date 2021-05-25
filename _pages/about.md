@@ -14,10 +14,10 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Mardi 25 Mai à 21h00 : IM Ludovic LEJARRE - Mf Sven CHARMETEAU
   * Mercredi 26 Mai à 20h30 : David NAJART vs Mf Floryan EUGENE
   * Samedi 29 Mai à 18h00 : Juste des échecs
   * Samedi 29 Mai à 20h00 : tournoi inter-ligue sur Lichess.org
+  * *Bientôt les demi-finales du trophée MI Pierre BAILET vs MI Ludovic LEJARRE et MI Lucas DI NICOLANTONIO vs Mf Sven CHARMETEAU*
 
 Challenge Gwengamp Chess
 ======
@@ -29,7 +29,7 @@ Nous avons tiré au sort la composition des groupes :
 Les matchs commencent cette semaine, restez connecté pour connaître les prochains streams.
 Le détail des appariements, calendrier des matchs et classements sont disponibles [sur ce lien](https://docs.google.com/spreadsheets/d/1KcM92fU3VAFJtJLrZHnmAvBvIPzSW0i4ZX-RKlkoq_I/edit?usp=sharing).
 
-Retrouvez les parties du challenge sur Lichess dans l'étude [Meilleurs parties Trophée gwengamp chess](https://lichess.org/study/amDirdX3).
+Retrouvez les parties du challenge sur Lichess dans l'étude [Meilleurs parties Trophée gwengamp chess partie I](https://lichess.org/study/amDirdX3) et [partie II](https://lichess.org/study/Kh26x8Kf).
 
 News
 ======
