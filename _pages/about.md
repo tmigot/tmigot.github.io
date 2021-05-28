@@ -14,10 +14,11 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/gwengamp_chess
 
 Nos prochains rendez-vous
 ======
-  * Mercredi 26 Mai à 20h30 : David NAJART vs Mf Floryan EUGENE
   * Samedi 29 Mai à 18h00 : Juste des échecs
   * Samedi 29 Mai à 20h00 : tournoi inter-ligue sur Lichess.org
-  * *Bientôt les demi-finales du trophée MI Pierre BAILET vs MI Ludovic LEJARRE et MI Lucas DI NICOLANTONIO vs Mf Sven CHARMETEAU*
+  * Dimanche 30 Mai à 20h30 : 1ère demi-finale, MI Pierre BAILET vs MI Ludovic LEJARRE
+  * Mercredi 2 Juin à 21h00 : 2ème demi-finale, MI Lucas DI NICOLANTONIO vs Mf Sven CHARMETEAU
+  * *La grande finale à venir le dimanche 6 juin (à confirmer)*
 
 Challenge Gwengamp Chess
 ======
