@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Guingamp-Echecs Stream"
+title                    : "Guingamp_Echecs Stream"
 title_separator          : "-"
-name                     : &name "Guingamp-echecs Stream"
-description              : &description "Le site officiel du compte stream Guingamp/Gwengamp-echecs"
+name                     : &name "Guingamp_Echecs Stream"
+description              : &description "Le site officiel du compte stream Guingamp_Echecs"
 url                      : https://guingamp-echecs-stream.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guingamp-echecs-stream/guingamp-echecs-stream.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guingamp-Echecs Stream"
+  name             : "Guingamp_Echecs Stream"
   avatar           : "gwengamp-chess.png"
   bio              : "Le site de la chaine de streaming guingamp-echecs"
   location         : "Bretagne"
@@ -110,7 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  twitch           : gwengamp_chess
+  twitch           : guingamp_echecs
   vine             :
   weibo            :
   xing             :
