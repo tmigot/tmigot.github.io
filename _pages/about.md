@@ -21,11 +21,11 @@ Nos prochains rendez-vous
 Challenge Gwengamp Chess
 ======
 
-Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs, revoir [la présentation sur youtube](https://www.youtube.com/watch?v=ARqkzBN-I2k).    
-La phase de poules est terminée et à vu la qualification des 2 premiers de chaque poule pour les demi-finales :
+Du 8 Mai au 6 Juin, nous organisons un tournoi exceptionnel avec 8 joueurs, revoir [la présentation sur youtube](https://www.youtube.com/watch?v=ARqkzBN-I2k).
+La phase de poules est terminée et à vu la qualification des 2 premiers de chaque poule pour les demi-finales :    
 ![](../images/poules.png)
 
-Le tableau de la phase finale :
+Le tableau de la phase finale :    
 ![](../images/finales.png)
 
 Restez connecté pour connaître les prochains streams.
