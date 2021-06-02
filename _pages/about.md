@@ -31,7 +31,7 @@ Le tableau de la phase finale :
 Restez connecté pour connaître les prochains streams.
 Le détail des appariements, calendrier des matchs et classements sont disponibles [sur ce lien](https://docs.google.com/spreadsheets/d/1KcM92fU3VAFJtJLrZHnmAvBvIPzSW0i4ZX-RKlkoq_I/edit?usp=sharing).
 
-Retrouvez les parties du challenge sur Lichess dans l'étude [Meilleurs parties Trophée gwengamp chess partie I](https://lichess.org/study/amDirdX3), [partie II](https://lichess.org/study/Kh26x8Kf) et maintenant [Meilleures parties Trophée gwengamp chess phase finale](https://lichess.org/study/D7Dk1Z3D).
+Retrouvez les parties du challenge sur Lichess dans l'étude [Meilleurs parties Trophée gwengamp chess partie I](https://lichess.org/study/amDirdX3), [partie II](https://lichess.org/study/Kh26x8Kf) et maintenant [la phase finale](https://lichess.org/study/D7Dk1Z3D).
 
 News
 ======
