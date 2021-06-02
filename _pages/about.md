@@ -14,9 +14,10 @@ Venez découvrir notre équipe sur [Twitch](https://www.twitch.tv/guingamp_echec
 
 Nos prochains rendez-vous
 ======
-  * Mercredi 2 Juin à 21h00 : 2ème demi-finale, MI Lucas DI NICOLANTONIO vs Mf Sven CHARMETEAU
   * Samedi 5 Juin à 18h00 : Juste des échecs
-  * *La grande finale à venir le dimanche 6 juin (à confirmer)*
+  * Dimanche 6 Juin à 20h45 : la finale, MI Lucas DI NICOLANTONIO vs MI Pierre BAILET
+  * Mardi 8 Juin à 21h00 : le match du mardi (Briac et Tangi aux commentaires)
+  * Samedi 12 Juin à 21h00 : tournoi inter-ligue 6ème édition
 
 Challenge Gwengamp Chess
 ======
