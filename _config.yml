@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Tangi Migot"
   avatar           : "profil2-1.png"
-  bio              : "Doctor in applied mathematics"
-  location         : "Guelph, Canada"
+  bio              : "Computational Mathematician"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=eDH1GHIAAAAJ&hl=fr&oi=ao"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tangi-migot-06086b8a/"
   orcid            : "https://orcid.org/0000-0001-7729-2513"
   pinterest        :
   soundcloud       :

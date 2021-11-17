@@ -10,10 +10,10 @@ redirect_from:
 
 My research focuses on numerical optimization. I am interested in designing algorithms for nonsmooth optimization problems arising in sparse optimization and for non-convex problems, including mathematical programs with complementarity problems, bilevel optimization problems, and generalized Nash equilibrium problems.
 
-I am also very fond of chess and a big fan of Stade Rennais FC!
-
 Future plans
 ======
+
+- May 2022 [Optimization Days](https://symposia.gerad.ca/jopt2022/fr#:~:text=HEC%20Montréal%2C%20Québec%2C%20Canada%2C%2016%20—%2018%20mai%202022), HEC Montreal.
 
 News
 ======
