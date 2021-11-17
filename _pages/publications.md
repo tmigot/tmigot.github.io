@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>. Several of the following papers are published in fair open access journals.
 
-### Accepted papers
+### Accepted papers (15)
   * J.-P. Dussault, M. Haddou, and T. Migot. [<i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>](https://link.springer.com/chapter/10.1007/978-981-16-1819-2_3), Indo-French Seminar on Optimization, Variational Analysis and Applications, pp. 35--67, 2021. Springer, Singapore.
   * M. Nahirniak, M.-G. Cojocaru, and T. Migot. [<i>A leader-followers game of emergency preparedness for aderse events</i>](https://ojs.lib.uwo.ca/index.php/mase/article/view/11093), Mathematics in Applied Sciences and Engineering, (online) 2021.
   * T. Migot, M.-G. Cojocaru. [<i>On Minty variational inequalities and evolutionary stable states of generalized stable games</i>](https://www.sciencedirect.com/science/article/pii/S0167637720301875), Operations Research Letters, 49:1, pp. 96--100, 2021.
@@ -24,10 +24,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
   * M. Haddou, T. Migot and J. Omer. [<i>A generalized direction in interior point method for monotone linear complementarity problems</i>](https://link.springer.com/article/10.1007%2Fs11590-018-1241-2), Optimization Letters, 13, pp. 35--53, 2018.
   * L. Abdallah, M. Haddou, and T. Migot. [<i>Solving absolute value equation using complementarity and smoothing functions</i>](https://www.sciencedirect.com/science/article/abs/pii/S0377042717303199), Journal of Computational and Applied Mathematics, 327, pp. 196--207, 2018.
 
-### Submitted preprints
-  * J.-P. Dussault, M. Haddou, and T. Migot. <i>A unified framework of regularization methods for degenerate non-linear optimization models</i>, HAL, 2018.
-
-### Conference publications
+### Conference publications (4)
   * M.-G. Cojocaru, T. Migot. [<i>Revisiting path-following to solve the generalized Nash equilibrium problem</i>](https://link.springer.com/chapter/10.1007/978-3-030-63591-6_9), International Conference on Applied Mathematics, Modeling and Computational Science. Springer, Cham, 2019.
   * L. Abdallah, T. Migot, and M. Haddou. [<i>Solving mathematical programs with complementarity constraints with a penalization approach</i>](https://link.springer.com/chapter/10.1007/978-3-030-21803-4_24), World Congress on Global Optimization, pp. 228-237. Springer, Cham, 2019.
   * T. Migot, L. Abdallah, and M. Haddou. [<i>A sub-additive merit function for complementarity problems and application</i>](https://dl.acm.org/doi/abs/10.1145/3230905.3230925), Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications. ACM, 2018.
