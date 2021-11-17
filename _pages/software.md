@@ -25,9 +25,10 @@ We are now using `Stopping` in a number of packages: [FletcherPenaltyNLPSolver](
 
 I am an active contributor to the organization [JuliaSmoothOptimizers](https://juliasmoothoptimizers.github.io) an open source organization in the Julia programming language for linear algebra and nonlinear continuous optimization that offers the flexibility, power, and ease of use for studying numerical methods, researching new algorithms, and exploring new ideas.
 
-In particular, I am the main developper of two recent packages with official Julia release:
-* T. Migot, D. Orban, and A.S. Siquiera. [PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl), https://doi.org/10.5281/zenodo.5056629, version 0.2.3, 2021.
-* T. Migot, D. Orban, and A.S. Siquiera. [{DCISolver.jl: An optimization solver with dynamic control of infeasibility](https://github.com/JuliaSmoothOptimizers/DCISolver.jl), https://doi.org/10.5281/zenodo.4742979, version 0.2.3, 2021.
+As a part of my postdoctoral project at IVADO Montreal, I am interested in developing packages to model PDE-constrained optimization problems and implement solvers for such problems.
+I am the main developper of two recent packages with official Julia release:
+* T. Migot, D. Orban, and A.S. Siquiera. [PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl), [doi:10.5281/zenodo.5056629](https://doi.org/10.5281/zenodo.5056629), version 0.2.3, 2021.
+* T. Migot, D. Orban, and A.S. Siquiera. [DCISolver.jl: An optimization solver with dynamic control of infeasibility](https://github.com/JuliaSmoothOptimizers/DCISolver.jl), [doi:10.5281/zenodo.4742979](https://doi.org/10.5281/zenodo.4742979), version 0.2.3, 2021.
 
 Unregistered companion packages for this organization includes:
 * T. Migot. [PDEOptimizationProblems: A list of optimization problems in PDENLPModel format](https://github.com/tmigot/PDEOptimizationProblems), 2021.
@@ -44,5 +45,5 @@ Currently, the main packages are:
 * T. Migot. [MPCCSolver.jl: Library of Julia functions to solve MPCC](https://github.com/tmigot/MPCCSolver.jl), 2020.
 * T. Migot. [MPCC.jl: Data structures for optimization models with complementarity constraints](https://github.com/tmigot/MPCC.jl), 2020.
 
-The organization created in 2021 is at an early stage and is recruiting collaborators.
+The organization created in 2021 is at an early stage and is still recruiting collaborators.
 A first step in the creation of this organization is to upload the codes used in my recent research papers.
