@@ -19,7 +19,7 @@ With a few lines of codes, one can implement an iterative methods without taking
 The motivation behind stopping is to promote reusability of codes ensuring that the user can control, within some algorithmic limits, the stopping criteria of an algorithm.
 The documentation of the package contains several examples and tutorials.
 
-We are now using `Stopping` in a number of packages: [FletcherPenaltyNLPSolver](https://github.com/tmigot/FletcherPenaltyNLPSolver), [OneDmin.jl](https://github.com/vepiteski/OneDmin.jl), [LSDescent](https://github.com/vepiteski/LSDescent), [RandomKrylov.jl](https://github.com/tmigot/RandomKrylov.jl), and in the [JOVA](https://github.com/JuliaOptimizationVariationalAnalysis) organization.
+We are now using `Stopping` in a number of packages: [FletcherPenaltyNLPSolver](https://github.com/tmigot/FletcherPenaltyNLPSolver), [OneDmin.jl](https://github.com/vepiteski/OneDmin.jl), [LSDescent](https://github.com/vepiteski/LSDescent), [RandomLinearAlgebraSolvers.jl](https://github.com/tmigot/RandomLinearAlgebraSolvers.jl), and in the [JOVA](https://github.com/JuliaOptimizationVariationalAnalysis) organization.
 
 ## JuliaSmoothOptimizers (JSO)
 
