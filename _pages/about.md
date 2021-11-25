@@ -13,7 +13,8 @@ My research focuses on numerical optimization. I am interested in designing algo
 Future plans
 ======
 
-- May 2022 [Optimization Days](https://symposia.gerad.ca/jopt2022/fr#:~:text=HEC%20Montréal%2C%20Québec%2C%20Canada%2C%2016%20—%2018%20mai%202022), HEC Montreal.
+- Teaching, Winter 2022, [Méthodes d'optimisation et contrôle optimal](https://www.polymtl.ca/programmes/cours/methodes-doptimisation-et-controle-optimal) at Polytechnique Montréal ; include labs in Julia.
+- May 2022, [Optimization Days](https://symposia.gerad.ca/jopt2022/fr#:~:text=HEC%20Montréal%2C%20Québec%2C%20Canada%2C%2016%20—%2018%20mai%202022), HEC Montreal.
 
 News
 ======
