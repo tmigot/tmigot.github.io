@@ -8,16 +8,16 @@ author_profile: true
 A major part of my research consists of producing packages to solve challenging mathematical problems.
 These packages, mainly in the [Julia programming language](https://julialang.org), are available open-source in <a href="https://github.com/tmigot">GitHub @tmigot</a>.
 
-## Stopping.jl
+## Solver Stopping in Julia
 
-I am the main developper of `Stopping` a registered Julia package that offers a framework to implement iterative algorithms and tools to ease the uniformization of stopping criteria in iterative solvers.
+I am the main developper of [SolverStoppingJulia](https://github.com/SolverStoppingJulia) a github organization whose main package is `Stopping`, a Julia package that offers a framework to implement iterative algorithms and tools to ease the uniformization of stopping criteria in iterative solvers.
 
 * J.-P. Dussault, S. Goyette, T. Migot. [Stopping.jl: A framework to implement iterative algorithms](https://github.com/vepiteski/Stopping.jl), version 0.3.7, 2021.
-* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://github.com/tmigot/StoppingInterface.jl), unregistered, 2021.
+* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://github.com/tmigot/StoppingInterface.jl), [doi:10.5281/zenodo.6126665](https://doi.org/10.5281/zenodo.6126665), version 0.1.3, 2022.
 
 With a few lines of codes, one can implement an iterative methods without taking care of the ever debatable stopping criteria.
 The motivation behind stopping is to promote reusability of codes ensuring that the user can control, within some algorithmic limits, the stopping criteria of an algorithm.
-The documentation of the package contains several examples and tutorials.
+The documentation of the package contains several examples and tutorials, see the [organization's website](https://solverstoppingjulia.github.io/StoppingTutorials.jl/dev/).
 
 We are now using `Stopping` in a number of packages: [FletcherPenaltyNLPSolver](https://github.com/tmigot/FletcherPenaltyNLPSolver), [OneDmin.jl](https://github.com/vepiteski/OneDmin.jl), [LSDescent](https://github.com/vepiteski/LSDescent), [RandomLinearAlgebraSolvers.jl](https://github.com/tmigot/RandomLinearAlgebraSolvers.jl), and in the [JOVA](https://github.com/JuliaOptimizationVariationalAnalysis) organization.
 
