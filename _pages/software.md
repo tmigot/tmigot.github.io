@@ -10,29 +10,31 @@ These packages, mainly in the [Julia programming language](https://julialang.org
 
 ## Solver Stopping in Julia
 
-I am the main developper of [SolverStoppingJulia](https://github.com/SolverStoppingJulia) a github organization whose main package is `Stopping`, a Julia package that offers a framework to implement iterative algorithms and tools to ease the uniformization of stopping criteria in iterative solvers.
+I am the main developper of [SolverStoppingJulia](https://github.com/SolverStoppingJulia) a Github organization whose main package is `Stopping`, a Julia package that offers a framework to implement iterative algorithms and tools to ease the uniformization of stopping criteria in iterative solvers.
 
-* J.-P. Dussault, S. Goyette, T. Migot. [Stopping.jl: A framework to implement iterative algorithms](https://github.com/vepiteski/Stopping.jl), version 0.3.7, 2021.
-* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://github.com/tmigot/StoppingInterface.jl), [doi:10.5281/zenodo.6126665](https://doi.org/10.5281/zenodo.6126665), version 0.1.3, 2022.
+* J.-P. Dussault, S. Goyette, T. Migot. [Stopping.jl: A framework to implement iterative algorithms](https://https://github.com/SolverStoppingJulia/Stopping.jl), version 0.6.0 2022.
+* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://https://github.com/SolverStoppingJulia/StoppingInterface.jl), [doi:10.5281/zenodo.6126665](https://doi.org/10.5281/zenodo.6126665), version 0.5.1, 2022.
 
 With a few lines of codes, one can implement an iterative methods without taking care of the ever debatable stopping criteria.
 The motivation behind stopping is to promote reusability of codes ensuring that the user can control, within some algorithmic limits, the stopping criteria of an algorithm.
 The documentation of the package contains several examples and tutorials, see the [organization's website](https://solverstoppingjulia.github.io/StoppingTutorials.jl/dev/).
 
-We are now using `Stopping` in a number of packages: [FletcherPenaltyNLPSolver](https://github.com/tmigot/FletcherPenaltyNLPSolver), [OneDmin.jl](https://github.com/vepiteski/OneDmin.jl), [LSDescent](https://github.com/vepiteski/LSDescent), [RandomLinearAlgebraSolvers.jl](https://github.com/tmigot/RandomLinearAlgebraSolvers.jl), and in the [JOVA](https://github.com/JuliaOptimizationVariationalAnalysis) organization.
+We are now using `Stopping` in a number of packages: [AdaptiveRegularization.jl](https://github.com/JuliaSmoothOptimizers/AdaptiveRegularization.jl), [FletcherPenaltySolver](https://github.com/JuliaSmoothOptimizers/FletcherPenaltySolver.jl), [OneDmin.jl](https://github.com/vepiteski/OneDmin.jl), [LSDescent](https://github.com/vepiteski/LSDescent), [RandomLinearAlgebraSolvers.jl](https://github.com/tmigot/RandomLinearAlgebraSolvers.jl), and in the [JOVA](https://github.com/JuliaOptimizationVariationalAnalysis) organization.
 
 ## JuliaSmoothOptimizers (JSO)
 
 I am an active contributor to the organization [JuliaSmoothOptimizers](https://juliasmoothoptimizers.github.io) an open source organization in the Julia programming language for linear algebra and nonlinear continuous optimization that offers the flexibility, power, and ease of use for studying numerical methods, researching new algorithms, and exploring new ideas.
 
-As a part of my postdoctoral project at IVADO Montreal, I am interested in developing packages to model PDE-constrained optimization problems and implement solvers for such problems.
-I am the main developper of two recent packages with official Julia release:
-* T. Migot, D. Orban, and A.S. Siquiera. [PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl), [doi:10.5281/zenodo.5056629](https://doi.org/10.5281/zenodo.5056629), version 0.2.3, 2021.
-* T. Migot, D. Orban, and A.S. Siquiera. [DCISolver.jl: An optimization solver with dynamic control of infeasibility](https://github.com/JuliaSmoothOptimizers/DCISolver.jl), [doi:10.5281/zenodo.4742979](https://doi.org/10.5281/zenodo.4742979), version 0.2.3, 2021.
+As a part of my research project at IVADO/Polytechnique Montreal, I am interested in developing packages to model PDE-constrained optimization problems and implement solvers for such problems.
+
+I am the main developper of several recent packages with official Julia release:
+* T. Migot, D. Orban, and A.S. Siquiera. [PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl), [doi:10.5281/zenodo.5056629](https://doi.org/10.5281/zenodo.5056629), version 0.2.3, 2021;
+* T. Migot, D. Orban, and A.S. Siquiera. [DCISolver.jl: An optimization solver with dynamic control of infeasibility](https://github.com/JuliaSmoothOptimizers/DCISolver.jl), [doi:10.5281/zenodo.4742979](https://doi.org/10.5281/zenodo.4742979), version 0.2.3, 2021;
+* T. Migot. [FletcherPenaltySolver.jl: Fletcher's penalty method for nonlinear optimization models](https://github.com/JuliaSmoothOptimizers/FletcherPenaltySolver.jl), [10.5281/zenodo.7153564](https://doi.org/10.5281/zenodo.7153564), version 0.2.0, 2022;
+* J.-P. Dussault, S. Goyette, T. Migot, D.Orban. [AdaptiveRegularization.jl: A unified efficient implementation of trust-region type algorithms for unconstrained optimization](https://github.com/JuliaSmoothOptimizers/AdaptiveRegularization.jl), version 0.1.0, 2022.
 
 Unregistered companion packages for this organization includes:
 * T. Migot. [PDEOptimizationProblems: A list of optimization problems in PDENLPModel format](https://github.com/tmigot/PDEOptimizationProblems), 2021.
-* T. Migot. [FletcherPenaltyNLPSolver: Fletcher's penalty method for nonlinear optimization models](https://github.com/tmigot/FletcherPenaltyNLPSolver), 2021.
 
 ## Julia Optimization and Variational Analysis (JOVA)
 
