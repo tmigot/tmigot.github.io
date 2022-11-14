@@ -13,7 +13,7 @@ My research focuses on numerical optimization. I am interested in designing algo
 Future plans
 ======
 
-- July, 2022, [JuliaCon 2022](https://juliacon.org/2022/), online.
+- July, 2023, [JuliaCon 2023](https://juliacon.org/2023/), MIT, Boston, USA.
 
 News
 ======
