@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>. Several of the following papers are published in fair open access journals.
 
 ### Accepted papers (16)
+  * T. Migot, D. Orban, and A. Soares Siqueira. [<i>PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints</i>](https://joss.theoj.org/papers/10.21105/joss.04736.pdf), Journal of Open Source Software 7:80 4736, 2022.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>DCISolver. jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility</i>](https://joss.theoj.org/papers/10.21105/joss.03991.pdf), Journal of Open Source Software 7:70 3991, 2022.
   * J.-P. Dussault, M. Haddou, and T. Migot. [<i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>](https://link.springer.com/chapter/10.1007/978-981-16-1819-2_3), Indo-French Seminar on Optimization, Variational Analysis and Applications, pp. 35--67, 2021. Springer, Singapore.
   * M. Nahirniak, M.-G. Cojocaru, and T. Migot. [<i>A leader-followers game of emergency preparedness for aderse events</i>](https://ojs.lib.uwo.ca/index.php/mase/article/view/11093), Mathematics in Applied Sciences and Engineering, 2:1, pp. 10--21, 2021.
