@@ -12,8 +12,8 @@ These packages, mainly in the [Julia programming language](https://julialang.org
 
 I am the main developper of [SolverStoppingJulia](https://github.com/SolverStoppingJulia) a Github organization whose main package is `Stopping`, a Julia package that offers a framework to implement iterative algorithms and tools to ease the uniformization of stopping criteria in iterative solvers.
 
-* J.-P. Dussault, S. Goyette, T. Migot. [Stopping.jl: A framework to implement iterative algorithms](https://https://github.com/SolverStoppingJulia/Stopping.jl), version 0.6.0 2022.
-* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://https://github.com/SolverStoppingJulia/StoppingInterface.jl), [doi:10.5281/zenodo.6126665](https://doi.org/10.5281/zenodo.6126665), version 0.5.1, 2022.
+* J.-P. Dussault, S. Goyette, T. Migot. [Stopping.jl: A framework to implement iterative algorithms](https://github.com/SolverStoppingJulia/Stopping.jl), version 0.6.0 2022.
+* T. Migot. [StoppingInterface.jl: Interface between Stopping.jl and other packages](https://github.com/SolverStoppingJulia/StoppingInterface.jl), [doi:10.5281/zenodo.6126665](https://doi.org/10.5281/zenodo.6126665), version 0.5.1, 2022.
 
 With a few lines of codes, one can implement an iterative methods without taking care of the ever debatable stopping criteria.
 The motivation behind stopping is to promote reusability of codes ensuring that the user can control, within some algorithmic limits, the stopping criteria of an algorithm.
