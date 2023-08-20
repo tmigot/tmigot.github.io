@@ -13,8 +13,7 @@ My research focuses on numerical optimization. I am interested in designing algo
 Future plans
 ======
 
-- May, 2023, [JOpt 2023](https://symposia.cirrelt.ca/CORS-JOPT/fr/home), HEC, Montreal, Canada;
-- July, 2023, [JuliaCon 2023](https://juliacon.org/2023/), MIT, Boston, USA.
+Taking a break :).
 
 News
 ======
