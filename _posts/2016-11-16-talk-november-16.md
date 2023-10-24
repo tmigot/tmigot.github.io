@@ -1,5 +1,5 @@
 ---
-title: 'Talk INFORMS'
+title: 'Talk INFORMS Annual Meeting'
 date: 2016-11-16
 permalink: /posts/2016/11/talk-november-16/
 tags:

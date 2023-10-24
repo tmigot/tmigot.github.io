@@ -1,5 +1,5 @@
 ---
-title: 'Winter 19: Publications and a new preprint'
+title: 'Winter 19 Publications and a New Preprint'
 date: 2019-04-01
 permalink: /posts/2019/04/publis-winter-19/
 tags:

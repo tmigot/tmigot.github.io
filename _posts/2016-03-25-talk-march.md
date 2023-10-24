@@ -1,5 +1,5 @@
 ---
-title: 'Talk and publication'
+title: 'Talks and publications'
 date: 2016-03-25
 permalink: /posts/2016/03/talk-march/
 tags:

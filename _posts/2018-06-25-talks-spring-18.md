@@ -1,5 +1,5 @@
 ---
-title: 'Spring 18: Talks'
+title: 'Spring 18 Talks'
 date: 2018-06-25
 permalink: /posts/2018/06/talks-spring-18/
 tags:

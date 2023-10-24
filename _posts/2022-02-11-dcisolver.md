@@ -1,5 +1,5 @@
 ---
-title: 'February 2022: DCISolver.jl published in JOSS'
+title: 'DCISolver.jl published in JOSS'
 date: 2022-02-11
 permalink: /posts/2022/02/publis/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'October 2021: IVADO, Digital October'
+title: 'IVADO, Digital October'
 date: 2021-10-25
 permalink: /posts/2021/01/news/
 tags:

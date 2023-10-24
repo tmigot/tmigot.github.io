@@ -1,5 +1,5 @@
 ---
-title: 'Winter 2020: Seminars and a publication'
+title: 'Winter 2020 Seminars and a publication'
 date: 2020-04-02
 permalink: /posts/2020/04/publis-winter/
 tags:

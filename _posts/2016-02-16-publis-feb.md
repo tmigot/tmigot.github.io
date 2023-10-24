@@ -1,5 +1,5 @@
 ---
-title: 'Publication'
+title: 'Publication on AVE'
 date: 2016-02-16
 permalink: /posts/2016/02/publis-feb/
 tags:

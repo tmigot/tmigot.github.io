@@ -1,5 +1,5 @@
 ---
-title: 'Summer 19: Talks'
+title: 'Summer 19 Talks'
 date: 2019-09-01
 permalink: /posts/2019/09/talks-summer-19/
 tags:
