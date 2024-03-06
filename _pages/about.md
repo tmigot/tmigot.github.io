@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on numerical optimization. I am interested in designing algorithms for nonsmooth optimization problems arising in sparse optimization and for non-convex problems, including mathematical programs with complementarity problems, bilevel optimization problems, and generalized Nash equilibrium problems.
+Computational mathematician specializing in solving challenging mathematical problems and their practical applications, my primary expertise lies in numerical optimization.
+I specialize in addressing nonconvex problems, including mathematical programs with complementarity problems, bilevel optimization, and generalized Nash games, and nonsmooth optimization problems arising in sparse optimization.
+I use optimal control and nonsmooth dynamical systems in diverse applications such as game theory and geochemistry.
+ An important aspect of my research is to make algorithms accessible and competitive for large-scale problems encountered in machine learning, earth sciences, and life sciences.
+
+I am always open to new collaborations and opportunities, so feel free to reach out!
 
 Future plans
 ======
 
 - [25th International Symposium on Mathematical](https://ismp2024.gerad.ca), Montréal, Canada, July 21st-26th, 2024
 - [JuMP-dev 2024](https://jump.dev/meetings/jumpdev2024/), Montréal, Canada, July 19th-21th July, 2024
+- EURO 2024 - 33rd European Conference on Operational Research, Copenhagen, Denmark, June 30 – July 3, 2024
 
 News
 ======
