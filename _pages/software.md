@@ -5,9 +5,8 @@ permalink: /softwares/
 author_profile: true
 ---
 
-A major part of my research consists of producing packages to solve challenging mathematical problems.
-These packages, mainly in the [Julia programming language](https://julialang.org), are available open-source in <a href="https://github.com/tmigot">GitHub @tmigot</a>.
-I am also coding in C++ or Python.
+Part of my research consists of producing packages to solve challenging mathematical problems.
+These packages, mainly in the [Julia programming language](https://julialang.org) but also C++ or Python, are available open-source in <a href="https://github.com/tmigot">GitHub @tmigot</a>.
 
 ## JuliaSmoothOptimizers (JSO)
 
