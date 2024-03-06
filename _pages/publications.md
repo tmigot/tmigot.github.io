@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>. Several of the following papers are published in fair open access journals.
 
+I am a reviewing for MathScinet (American Mathematical Society) and regularly review papers for peer-reviewed international journal and softwares.
+
 ### Accepted papers (18)
   * J.-P. Dussault, T. Migot, D. Orban. [<i>Scalable adaptive cubic regularization methods</i>](https://link.springer.com/article/10.1007/s10107-023-02007-6), Mathematical Programming Series A, 2023.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints</i>](https://joss.theoj.org/papers/10.21105/joss.04736.pdf), Journal of Open Source Software 7:80 4736, 2022.
