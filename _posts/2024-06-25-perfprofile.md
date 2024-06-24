@@ -64,7 +64,7 @@ The graphical representation of the performance profile is easy to interpret. Re
 - **Instance-Specific Assessment:**
 By considering the performance ratio on a per-instance basis, the performance profile allows to identify algorithms that consistently perform well across a range of problem instances. This is especially important in optimization, where the characteristics of instances can vary widely.
 - **Robustness Analysis:**
-The profile is useful for assessing the robustness of algorithms. Algorithms that exhibit consistent good performance across a variety of instances will have performance profiles concentrated towards the left, indicating reliability. In [Dolan \& Moré, 2002], the authors justify that performance profiles are relatively insensitive to changes in results on a small number of problems and that they are also largely unaffected by small changes in results over many problems.
+The profile is useful for assessing the robustness of algorithms. Algorithms that exhibit consistent good performance across a variety of instances will have performance profiles concentrated towards the left, indicating reliability. In [Dolan & Moré, 2002](https://dx.doi.org/10.1007/s101070100263), the authors justify that performance profiles are relatively insensitive to changes in results on a small number of problems and that they are also largely unaffected by small changes in results over many problems.
 - **No Need for Aggregation:**
 Unlike some other performance metrics that require aggregating results over instances, the performance profile considers the performance of algorithms on each instance individually, providing a more nuanced evaluation.
 - **Instance-Specific Insights:**
@@ -95,7 +95,7 @@ Researchers and practitioners in the field can leverage these implementations to
 
 ## Performance Profile Interpretation
 
-In the realm of performance profiles, Dolan and Moré's 2002 article [Dolan & Moré, 2002](https://dx.doi.org/10.1007/s101070100263) provides examples that shed light on the interpretation of performance profiles within extensive benchmarks.
+In the realm of performance profiles, [Dolan and Moré's 2002 article](https://dx.doi.org/10.1007/s101070100263) provides examples that shed light on the interpretation of performance profiles within extensive benchmarks.
 
 We delve further into the analysis with additional examples aimed at illustrating diverse situations and their nuanced interpretations.
 Throughout the following examples, we place a particular emphasis on the interpretation of performance profiles, offering readers practical insights into understanding and analyzing results.
@@ -119,7 +119,7 @@ T = [
 performance_profile(PlotsBackend(), T, ["Solver A", "Solver B"])
 ```
 
-![Example 1: A clear winner](PerformanceProfile/Example1.png)
+![Example 1: A clear winner](/images/PerformanceProfile/Example1.png)
 
 We can observe from this profile that:
 - *Solver A* was better than *Solver B* on all problems;
@@ -145,7 +145,7 @@ T = [
 performance_profile(PlotsBackend(), T, ["Solver A", "Solver B"])
 ```
 
-![Example 2: Fast but not robust](PerformanceProfile/Example2.png)
+![Example 2: Fast but not robust](/images/PerformanceProfile/Example2.png)
 
 We can observe from this profile that:
 - *Solver A* is better than *Solver B* on 62% of the problems;
@@ -170,7 +170,7 @@ T = [
 performance_profile(PlotsBackend(), T, ["Solver A", "Solver B"])
 ```
 
-![Example 3: Very small factor](PerformanceProfile/Example3.png)
+![Example 3: Very small factor](/images/PerformanceProfile/Example3.png)
 
 In this case, it is clear that *Solver A* is better than *Solver B*, however the factor of difference is so small that it is difficult to draw a clear line between both.
 This is a situation where either both solvers are equivalent or the metric chosen is not appropriate.
@@ -200,7 +200,7 @@ T = [
 performance_profile(PlotsBackend(), T, ["Solver A", "Solver B", "Solver C"])
 ```
 
-![The difficult case of more than 2 solvers](PerformanceProfile/Example4.png)
+![The difficult case of more than 2 solvers](/images/PerformanceProfile/Example4.png)
 
 Solver A is the best on 80% of the problems in the test set, Solver B is not the winner on any.
 Moreover, Solver A solves all the problems within a factor 2 of the best.
@@ -222,7 +222,7 @@ T = [
 performance_profile(PlotsBackend(), T[:,2:3], ["Solver B", "Solver C"])
 ```
 
-![The difficult case of more than 2 solvers](PerformanceProfile/Example4-a.png)
+![The difficult case of more than 2 solvers](/images/PerformanceProfile/Example4-a.png)
 
 When comparing two solvers on a given test set, performance profiles give a clear
 measure of which is the better solver for a selected range.
@@ -236,7 +236,7 @@ A straightforward extension is to consider more than one merit function.
 The following illustration is selected from the article [Migot et al., (2022). DCISolver.jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility. Journal of Open Source
 Software, 7(70), 3991](https://joss.theoj.org/papers/10.21105/joss.03991.pdf).
 
-![Performance profile comparing IPOPT and DCISolver](PerformanceProfile/ipopt_dcildl_82.png)
+![Performance profile comparing IPOPT and DCISolver](/images/PerformanceProfile/ipopt_dcildl_82.png)
 
 This performance profile compares [DCISolver.jl](https://github.com/JuliaSmoothOptimizers/DCISolver.jl) variant LDL against Ipopt on 82 nonlinear continuous optimization problems.
 It uses two merit functions: the elapsed time to solve a problem, and the number of evaluations of objective and constraint functions.
@@ -254,7 +254,7 @@ The following illustrates a similar benchmark where a third solver is added, KNI
 The first pair of profile is similar to what has been discussed before.
 The other profiles are showing two-by-two profiles in order to overcome the difficulty raised earlier.
 
-![Performance profile comparing IPOPT, KNITRO, and DCISolver](PerformanceProfile/ipopt_knitro_dcildl_82.png)
+![Performance profile comparing IPOPT, KNITRO, and DCISolver](/images/PerformanceProfile/ipopt_knitro_dcildl_82.png)
 
 This type of profile wall allows to build more concrete conclusions on the strenght of each solvers.
 
