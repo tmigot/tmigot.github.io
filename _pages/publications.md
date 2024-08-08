@@ -10,6 +10,7 @@ You can also find my articles on <a href="https://www.researchgate.net/profile/T
 I am a reviewing for MathScinet (American Mathematical Society) and regularly review papers for peer-reviewed international journal and softwares.
 
 ### Accepted papers (18)
+
   * J.-P. Dussault, T. Migot, D. Orban. [<i>Scalable adaptive cubic regularization methods</i>](https://link.springer.com/article/10.1007/s10107-023-02007-6), Mathematical Programming Series A, 2023.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints</i>](https://joss.theoj.org/papers/10.21105/joss.04736.pdf), Journal of Open Source Software 7:80 4736, 2022.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>DCISolver. jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility</i>](https://joss.theoj.org/papers/10.21105/joss.03991.pdf), Journal of Open Source Software 7:70 3991, 2022.
@@ -29,7 +30,16 @@ I am a reviewing for MathScinet (American Mathematical Society) and regularly re
   * M. Haddou, T. Migot and J. Omer. [<i>A generalized direction in interior point method for monotone linear complementarity problems</i>](https://link.springer.com/article/10.1007%2Fs11590-018-1241-2), Optimization Letters, 13, pp. 35--53, 2018.
   * L. Abdallah, M. Haddou, and T. Migot. [<i>Solving absolute value equation using complementarity and smoothing functions</i>](https://www.sciencedirect.com/science/article/abs/pii/S0377042717303199), Journal of Computational and Applied Mathematics, 327, pp. 196--207, 2018.
 
+### Preprint
+
+This is a list of my papers that are available online but not (yet?) published in a peer-reviewed journal.
+
+  * J. Erhel, B.Hamlat, T. Migot. [<i>A projected dynamical system approach to mineral precipitation-dissolution reactions in geochemistry</i>](https://inria.hal.science/hal-04631094), Computational HAL, 2024.
+
 ### Conference publications (4)
+
+A list of publications that appeared in peer-reviewed proceedings of conferences.
+
   * M.-G. Cojocaru, T. Migot. [<i>Revisiting path-following to solve the generalized Nash equilibrium problem</i>](https://link.springer.com/chapter/10.1007/978-3-030-63591-6_9), International Conference on Applied Mathematics, Modeling and Computational Science. Springer, Cham, 2019.
   * L. Abdallah, T. Migot, and M. Haddou. [<i>Solving mathematical programs with complementarity constraints with a penalization approach</i>](https://link.springer.com/chapter/10.1007/978-3-030-21803-4_24), World Congress on Global Optimization, pp. 228-237. Springer, Cham, 2019.
   * T. Migot, L. Abdallah, and M. Haddou. [<i>A sub-additive merit function for complementarity problems and application</i>](https://dl.acm.org/doi/abs/10.1145/3230905.3230925), Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications. ACM, 2018.
