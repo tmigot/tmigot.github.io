@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a>. Several of the following papers are published in fair open access journals.
+You can also find my articles on <a href="https://www.researchgate.net/profile/Tangi_Migot">ResearchGate</a> or <a href="https://scholar.google.ca/citations?user=eDH1GHIAAAAJ&hl=en&oi=ao">Google Scholar</a>. Several of the following papers are published in fair open access journals.
 
-I am a reviewing for MathScinet (American Mathematical Society) and regularly review papers for peer-reviewed international journal and softwares.
+I am a reviewing for <a href="https://mathscinet.ams.org">MathSciNet</a> (American Mathematical Society), <a href="https://joss.theoj.org/">JOSS</a>, and regularly review papers for peer-reviewed international journal and softwares.
 
 ### Accepted papers (18)
 
-  * J.-P. Dussault, T. Migot, D. Orban. [<i>Scalable adaptive cubic regularization methods</i>](https://link.springer.com/article/10.1007/s10107-023-02007-6), Mathematical Programming Series A, 2023.
+  * J.-P. Dussault, T. Migot, D. Orban. [<i>Scalable adaptive cubic regularization methods</i>](https://link.springer.com/article/10.1007/s10107-023-02007-6), Mathematical Programming Series A, 207, pp. 191--225, 2024.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints</i>](https://joss.theoj.org/papers/10.21105/joss.04736.pdf), Journal of Open Source Software 7:80 4736, 2022.
   * T. Migot, D. Orban, and A. Soares Siqueira. [<i>DCISolver. jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility</i>](https://joss.theoj.org/papers/10.21105/joss.03991.pdf), Journal of Open Source Software 7:70 3991, 2022.
   * J.-P. Dussault, M. Haddou, and T. Migot. [<i>The new butterfly relaxation method for mathematical program with complementarity constraints</i>](https://link.springer.com/chapter/10.1007/978-981-16-1819-2_3), Indo-French Seminar on Optimization, Variational Analysis and Applications, pp. 35--67, 2021. Springer, Singapore.
