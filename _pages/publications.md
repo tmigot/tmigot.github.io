@@ -36,10 +36,11 @@ This is a list of my papers that are available online but not (yet?) published i
 
   * J. Erhel, B.Hamlat, T. Migot. [<i>A projected dynamical system approach to mineral precipitation-dissolution reactions in geochemistry</i>](https://inria.hal.science/hal-04631094), Computational HAL, 2024.
 
-### Conference publications (4)
+### Conference publications (5)
 
 A list of publications that appeared in peer-reviewed proceedings of conferences.
 
+  * T. Migot, D. Orban, A. Soares Siqueira. [<i>JSOSuite.jl: Solving continuous optimization problems with JuliaSmoothOptimizers](https://doi.org/10.21105/jcon.00161), The Proceedings of the JuliaCon Conferences, 6(63), 161, 2024.
   * M.-G. Cojocaru, T. Migot. [<i>Revisiting path-following to solve the generalized Nash equilibrium problem</i>](https://link.springer.com/chapter/10.1007/978-3-030-63591-6_9), International Conference on Applied Mathematics, Modeling and Computational Science. Springer, Cham, 2019.
   * L. Abdallah, T. Migot, and M. Haddou. [<i>Solving mathematical programs with complementarity constraints with a penalization approach</i>](https://link.springer.com/chapter/10.1007/978-3-030-21803-4_24), World Congress on Global Optimization, pp. 228-237. Springer, Cham, 2019.
   * T. Migot, L. Abdallah, and M. Haddou. [<i>A sub-additive merit function for complementarity problems and application</i>](https://dl.acm.org/doi/abs/10.1145/3230905.3230925), Proceedings of the International Conference on Learning and Optimization Algorithms: Theory and Applications. ACM, 2018.
