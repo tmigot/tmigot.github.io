@@ -18,8 +18,7 @@ I am always open to new collaborations and opportunities, so feel free to reach 
 Future plans
 ======
 
-- [25th International Symposium on Mathematical](https://ismp2024.gerad.ca), Montréal, Canada, July 21st-26th, 2024
-- [JuMP-dev 2024](https://jump.dev/meetings/jumpdev2024/), Montréal, Canada, July 19th-21th July, 2024
+- More to come soon.
 
 News
 ======
