@@ -18,7 +18,8 @@ I am always open to new collaborations and opportunities, so feel free to reach 
 Future plans
 ======
 
-- More to come soon.
+- [ICCOPT 2025, July 21-24 2025, Los Angeles, USA](https://sites.google.com/view/iccopt2025/home)
+- [JuMP-dev 2025, November 17-20 2025, Auckland, New Zealand](https://jump.dev/meetings/jumpdev2025/)
 
 News
 ======
