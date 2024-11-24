@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Computational scientist specializing in solving challenging mathematical problems and their practical applications, my primary expertise lies in numerical optimization.
-I specialize in addressing nonconvex problems, including mathematical programs with complementarity problems, bilevel optimization, and generalized Nash games, and nonsmooth optimization problems arising in sparse optimization.
+Computational scientist specializing in solving challenging mathematical problems and their practical applications, my primary expertise lies in numerical optimization and algorithmic game theory.
+I specialized in addressing nonconvex problems, including mathematical programs with complementarity problems, bilevel optimization, and generalized Nash games, and nonsmooth optimization problems arising in sparse optimization.
 I use optimal control and nonsmooth dynamical systems in diverse applications such as game theory and geochemistry.
- An important aspect of my research is to make algorithms accessible and competitive for large-scale problems encountered in machine learning, earth sciences, and life sciences.
+An important aspect of my research is to make algorithms accessible and competitive for large-scale problems encountered in machine learning, earth sciences, and life sciences.
 
 I am always open to new collaborations and opportunities, so feel free to reach out!
 
 Future plans
 ======
 
+- [ICS 2025, March 14-16, Toronto, Canada](https://sites.google.com/view/ics-2025)
 - [ICCOPT 2025, July 21-24 2025, Los Angeles, USA](https://sites.google.com/view/iccopt2025/home)
 - [JuMP-dev 2025, November 17-20 2025, Auckland, New Zealand](https://jump.dev/meetings/jumpdev2025/)
 
